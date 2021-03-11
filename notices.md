@@ -8,10 +8,11 @@
 | 12/6/2020     | We released an update to our API. Before this update, the definition of COVID-like illness(CLI) and influenza-like illness (ILI) had been inadvertently switched in the API data. We have implemented a fix that corrects both historic and future data. This issue does not affect individual-level survey responses that are provided to entities who have signed a microdata use agreement. It also does not affect the US data which has been collected and distributed by Carnegie Mellon University. US estimates in the UMD and Facebook maps are also unaffected. Click [here](https://covidmap.umd.edu/api_fix_summary.html) to read a detailed summary of the issue and fix.|
 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1               | head two          |
+|:--------------------|:------------------|
+| 3/9/2021            | good swedish fish |
+| 3/5/2021            | good and plenty   | 
+| 2/6/2021            | good `oreos`      |
+| 1/21/2021           | good `zoute` drop |
+| 1/21/2021           | We released an update to our API. Before this update, the definition of COVID-like illness(CLI) and influenza-like illness (ILI) had been inadvertently switched in the API data. We have implemented a fix that corrects both historic and future data. This issue does not affect individual-level survey responses that are provided to entities who have signed a microdata use agreement. It also does not affect the US data which has been collected and distributed by Carnegie Mellon University. US estimates in the UMD and Facebook maps are also unaffected. Click [here](https://covidmap.umd.edu/api_fix_summary.html) to read a detailed summary of the issue and fix. |
 
