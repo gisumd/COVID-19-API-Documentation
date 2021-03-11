@@ -7,3 +7,11 @@
 | 1/21/2021     | We have implemented an updated definition for some of the aggregate indicators in the UMD Open Data API. This definition change impacts the following indicators: `mask-wearing`, `financial worry`, `social distancing`, and `vaccine acceptance`. We are implementing this change to make our estimates more directly comparable to those in [Carnegie Mellon University Delphi research group’s COVIDcast API](https://cmu-delphi.github.io/delphi-epidata/api/covidcast-signals/fb-survey.html), which uses data from the US version of the COVID-19 Symptom Survey. Find a more detailed description under the release log section [here](https://covidmap.umd.edu/methodology.html).|
 | 12/6/2020     | We released an update to our API. Before this update, the definition of COVID-like illness(CLI) and influenza-like illness (ILI) had been inadvertently switched in the API data. We have implemented a fix that corrects both historic and future data. This issue does not affect individual-level survey responses that are provided to entities who have signed a microdata use agreement. It also does not affect the US data which has been collected and distributed by Carnegie Mellon University. US estimates in the UMD and Facebook maps are also unaffected. Click [here](https://covidmap.umd.edu/api_fix_summary.html) to read a detailed summary of the issue and fix.|
 
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
