@@ -5,6 +5,7 @@ To get aggregates you need to make a call to the following url:
 `https://covidmap.umd.edu/api/resources?indicator={indicator}&type={type}&country={country}&date={date}`
 
 ## An open API from the University of Maryland
+
 | Parameter    | Description                                       | Example |
 |:-------------|:--------------------------------------------------|:--------|
 | indicator    | Aggregate data to query                           | `covid`, `mask`, `vaccine_acpt`    |
