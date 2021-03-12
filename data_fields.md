@@ -8,11 +8,18 @@ nav_order: 5
 
 Data fields returned form an API query
 
-| Field        | Description          |
-|:-------------|:---------------------|
-| country      | Country name         |
-| region       | Sub-country region name. Generally, it is at the state or province-level or equivalent.         |
-| smoothed\_   | Seven-day rolling average of pct\_\*         |
+| Field              | Description          |
+|:-------------------|:---------------------|
+| country            | Country name         |
+| region             | Sub-country region name. Generally, it is at the state or province-level or equivalent.         |
+| smoothed\_         | Seven-day rolling average of pct\_\*         |
+| \*\_se             | Standard error of pct\_\*                    |
+| \*\_se\_unw        | Standard error of pct\_\*\_unw               |
+| smoothed\_\*\_se   | Seven-day rolling average of pct\_\*         |
+| sample\_size\_\*   | Sample size for calculating the targeted indicator value         |
+| iso\_code          | The ISO country codes are internationally recognized codes that designate every country and most of the dependent areas a two-letter or three-letter combination        |
+| gid\_0             | The code for join country level data to the GADM country-level data (click to download).         |
+| gid\_1             | The code for join region-level data to the GADM region-level data (click to download).        |
 
 
 <!-- | pct\_\*      | Weighted percentage of respondents that have reported the specified indicator, where * is the indicator, except for the following indicators:\s\scovid, where \* = cli  
