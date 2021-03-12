@@ -12,8 +12,7 @@ Data fields returned form an API query
 |:-------------|:------------------|
 | country      | Country name     |
 | region       | Sub-country region name. Generally, it is at the state or province-level or equivalent.   |
-| pct\_\*         | Weighted percentage of respondents that have reported the specified indicator, where * is the indicator, except for the following indicators:  
-covid, where \* = cli  
+| pct\_\*      | Weighted percentage of respondents that have reported the specified indicator, where * is the indicator, except for the following indicators:\s\scovid, where \* = cli  
 flu, where \* = ili  
 mask, where \* = mc  
 contact, where \* = dc  
