@@ -12,6 +12,7 @@ Data fields returned form an API query
 |:-------------|:---------------------|
 | country      | Country name         |
 | region       | Sub-country region name. Generally, it is at the state or province-level or equivalent.         |
+| smoothed\_   | Seven-day rolling average of pct\_\*         |
 
 
 <!-- | pct\_\*      | Weighted percentage of respondents that have reported the specified indicator, where * is the indicator, except for the following indicators:\s\scovid, where \* = cli  
