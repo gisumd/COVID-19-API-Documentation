@@ -2,7 +2,7 @@
 layout: default
 title: Requests
 nav_order: 1
-parent: Requets
+parent: Requests
 ---
 
 # Reponse Count
