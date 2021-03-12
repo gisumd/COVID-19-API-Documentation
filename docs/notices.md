@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notices and Updates
-nav_order: 2
+nav_order: 3
 ---
 
 # Notices and Updates
