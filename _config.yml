@@ -11,7 +11,7 @@ aux_links:
 collections:
   # Define a collection named "docs", its documents reside in the "_docs" directory
   docs:
-    permalink: "/: _docs/: requests/"
+    permalink: "/: _docs/"
     output: true
 
 just_the_docs:
