@@ -13,7 +13,7 @@ Data fields returned form an API query
 | country            | Country name         |
 | region             | Sub-country region name. Generally, it is at the state or province-level or equivalent.        |
 | pct\_*             | Weighted percentage of respondents that have reported the specified indicator, where \* is the indicator, except for the following indicators:        |
-| pct\_\*\_unw       | Unweighted percentage of respondents that have reported the specified indicator, where \* is the indicator, except for the following indicators:<br />`covid`         |
+| pct\_\*\_unw       | Unweighted percentage of respondents that have reported the specified indicator, where \* is the indicator, except for the following indicators:<br />`covid`, where \* = cli<br />`flue`, where \* = ili<br />`mask`, where \* = mc<br />`contact`, where \* = dc<br />`finance`, where \* = hf<br />`anosmis`, where \* = anos<br />`vaccine_acpt`, where \* = vu         |
 | smoothed\_\*       | Seven-day rolling average of pct\_\*         |
 | \*\_se             | Standard error of pct\_\*                    |
 | \*\_se\_unw        | Standard error of pct\_\*\_unw               |
