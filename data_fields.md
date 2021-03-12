@@ -12,7 +12,9 @@ Data fields returned form an API query
 |:-------------------|:---------------------|
 | country            | Country name         |
 | region             | Sub-country region name. Generally, it is at the state or province-level or equivalent         |
-| smoothed\_         | Seven-day rolling average of pct\_\*         |
+| pct\_*             | Sub-country region name. Generally, it is at the state or province-level or equivalent         |
+| pct\_\*\_unw       | Sub-country region name. Generally, it is at the state or province-level or equivalent         |
+| smoothed\_\*       | Seven-day rolling average of pct\_\*         |
 | \*\_se             | Standard error of pct\_\*                    |
 | \*\_se\_unw        | Standard error of pct\_\*\_unw               |
 | smoothed\_\*\_se   | Seven-day rolling average of pct\_\*         |
