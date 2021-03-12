@@ -8,11 +8,10 @@ nav_order: 5
 
 Data fields returned form an API query
 
-| head1        | head two          |
-
-|:-------------|:------------------|
-| country      | Country name      |
-| region       | Region  name      |
+| Field        | Description          |
+|:-------------|:---------------------|
+| country      | Country name         |
+| region       | Sub-country region name. Generally, it is at the state or province-level or equivalent.         |
 
 
 <!-- | pct\_\*      | Weighted percentage of respondents that have reported the specified indicator, where * is the indicator, except for the following indicators:\s\scovid, where \* = cli  
