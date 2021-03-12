@@ -2,7 +2,7 @@ title: "COVID-19 World Survey Data API"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: color_theme
 logo: "/assets/images/umd-globe.svg"
-baseurl: "/COVID-19-API-Documentation"
+baseurl: "/COVID-19-API-Documentation/docs"
 url: "https://gisumd.github.io"
 aux_links:
   "COVID-19 World Symptoms Survey":
