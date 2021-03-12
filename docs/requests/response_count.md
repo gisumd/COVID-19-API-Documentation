@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Reponse Count
-nav_order: 1
+title: Retrieve survey reponse counts
+nav_order: 5
 parent: Requests
 ---
 
