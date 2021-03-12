@@ -12,7 +12,7 @@ Data fields returned form an API query
 |:-------------|:------------------|
 | country      | Country name     |
 | region       | Sub-country region name. Generally, it is at the state or province-level or equivalent.   |
-| pct\_\*      | Weighted percentage of respondents that have reported the specified indicator, where * is the indicator, except for the following indicators:\s\scovid, where \* = cli  
+<!-- | pct\_\*      | Weighted percentage of respondents that have reported the specified indicator, where * is the indicator, except for the following indicators:\s\scovid, where \* = cli  
 flu, where \* = ili  
 mask, where \* = mc  
 contact, where \* = dc  
@@ -35,4 +35,4 @@ vaccine_acpt, where \* = vu |
 | iso_code      | The ISO country codes are internationally recognized codes that designate every country and most of the dependent areas a two-letter or three-letter combination.   |
 | gid_0         | The code for join country level data to the [GADM](https://gadm.org) country-level data (click to download)   |
 | gid_1         | The code for join region-level data to the [GADM](https://gadm.org) region-level data (click to download)  |
-| survey_date   | Survey date for the data   |
+| survey_date   | Survey date for the data   | -->
