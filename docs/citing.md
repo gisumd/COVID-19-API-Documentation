@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Citing
-nav_order: 6
+nav_order: 7
 ---
 
 # Citing
@@ -14,4 +14,4 @@ If you use the API and would like to cite it, the following represents a proper 
 > Sarah LaRocca, Stanley Presser, Katherine Morris, Joshua A Salomon, Elizabeth A. Stuart, Ryan Tibshirani,
 > Tali Alterman Barash, Curtiss Cobb, Andres Garcia, Andi Gros, Ahmed Isa, Alex Kaess, Faisal Karim, 
 > Ofir Eretz Kedosha, Shelly Matskel, Roee Melamed, Amey Patankar, Irit Rutenberg, Tal Salmona, 
-> David Vannette (2020). COVID-19 World Symptom Survey Data API.[https://covidmap.umd.edu/api.html](https://covidmap.umd.edu/api.html)
+> David Vannette (2020). COVID-19 World Symptom Survey Data API. [https://covidmap.umd.edu/api.html](https://covidmap.umd.edu/api.html)
