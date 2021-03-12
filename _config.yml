@@ -9,4 +9,21 @@ aux_links:
     - "//covidmap.umd.edu"
 
 collections:
-  - requests
+  # Define a collection named "docs", its documents reside in the "_docs" directory
+  docs:
+    permalink: "/:_docs/:requests/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "docs" collection
+    docs:
+      # Give the collection a name
+      name: Documentation
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
