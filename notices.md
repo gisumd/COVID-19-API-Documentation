@@ -1,3 +1,9 @@
+---
+layout: default
+title: Notices and Updates
+nav_order: 2
+---
+
 # Notices and Updates
 
 | Date                | Notice            |

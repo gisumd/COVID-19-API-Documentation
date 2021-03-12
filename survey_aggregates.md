@@ -1,3 +1,9 @@
+---
+layout: default
+title: Survey Aggregates
+nav_order: 3
+---
+
 # Survey Aggregates
 
 To get aggregates you need to make a call to the following url:

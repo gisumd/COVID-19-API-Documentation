@@ -1,3 +1,9 @@
+---
+layout: default
+title: Indicators
+nav_order: 4
+---
+
 # Indicators
  
 List of indicator aggregate data currently available:

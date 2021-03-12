@@ -1,3 +1,9 @@
+---
+layout: default
+title: Get Started
+nav_order: 1
+---
+
 # Get Started
 
 ## An open API from the University of Maryland
