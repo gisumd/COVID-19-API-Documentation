@@ -1,7 +1,10 @@
 Coming soon
 {: .label .label-yellow }
 
-# CONTRIBUTING
-> **TL;DR** Add or edit a file in  the "docs/" directory or a "docs/" folder
-> and include a yalm header
+> **TL;DR** Add or edit a file in  the "docs" directory or within a "docs/" folder.
+> Include the `nav_order` in the page's YALM front matter. 
+
+## Content
+
+
 
