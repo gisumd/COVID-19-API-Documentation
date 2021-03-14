@@ -13,19 +13,11 @@ To retrive the list of available countries:
 ```
 {"data":
 	[
-		{
-			"country": "Afghanistan"
-		},
-		{
-			"country": "Albania"
-		},
+		{"country": "Afghanistan"},
+		{"country": "Albania"},
 		...
-		{
-			"country": "Mexico"
-		},
-		{
-			"country": "Moldova"
-		},
+		{"country": "Mexico"},
+		{"country": "Moldova"},
 		...
 	]
 }

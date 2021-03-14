@@ -15,17 +15,17 @@ Example to get the available dates for `Paraguay` use:
 
 ```
 {"data":
-	[
-		{
-			"country": "Paraguay",
-			"survey_date": "20200423"
-		},
-		{
-			"country": "Paraguay",
-			"survey_date": "20200424"
-		},
-		...
-	]
+ [
+    {
+        "country": "Paraguay",
+        "survey_date": "20200423"
+    },
+    {
+        "country": "Paraguay",
+        "survey_date": "20200424"
+	},
+	...
+ ]
 }
 ```
 
@@ -38,18 +38,18 @@ Example to get the available dates for `Magdalena, Colombia` use:
 
 ```
 {"data":
-	[
-		{
-			"country": "Paraguay",
-			"region": "Magdalena",
-			"survey_date": "20200503"
-		},
-		{
-			"country": "Paraguay",
-			"region": "Magdalena",
-			"survey_date": "20200504"
-		},
-		...
-	]
+ [
+    {
+        "country": "Colombia",
+        "region": "Magdalena",
+        "survey_date": "20200423"
+    },
+    {
+        "country": "Colombia",
+        "region": "Magdalena",
+        "survey_date": "20200424"
+	},
+	...
+ ]
 }
 ```
