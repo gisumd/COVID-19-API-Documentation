@@ -4,8 +4,52 @@ title: Retrieve survey dates
 nav_order: 2
 parent: Requests
 ---
-Coming soon
-{: .label .label-yellow }
 
-# Retrieve all dates for survey responses for a particular place
-Test
+## Retrieve all dates for survey responses for a particular place
+To retrive the available dates for a country use:
+
+`https://covidmap.umd.edu/api/datesavail?country={country}`
+
+Example to get the available dates for `Paraguay` use:
+`https://covidmap.umd.edu/api/datesavail?country=Paraguay`
+
+```
+{"data":
+	[
+		{
+			"country": "Paraguay",
+			"survey_date": "20200423"
+		},
+		{
+			"country": "Paraguay",
+			"survey_date": "20200424"
+		},
+		...
+	]
+}
+```
+
+To retrive the available dates for a region use:
+
+`https://covidmap.umd.edu/api/datesavail?country={country}&region={region}`
+
+Example to get the available dates for `Magdalena, Colombia` use:
+`https://covidmap.umd.edu/api/datesavail?country=Colombia&region=Magdalena`
+
+```
+{"data":
+	[
+		{
+			"country": "Paraguay",
+			"region": "Magdalena",
+			"survey_date": "20200503"
+		},
+		{
+			"country": "Paraguay",
+			"region": "Magdalena",
+			"survey_date": "20200504"
+		},
+		...
+	]
+}
+```
