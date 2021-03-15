@@ -5,6 +5,7 @@ logo: "/assets/images/umd-globe.svg"
 aux_links:
   "COVID-19 World Symptoms Survey":
     - "//covidmap.umd.edu"
+aux_links_new_tab: true
 
 exclude: ["CONTRIBUTING.md", "README.md"]
 

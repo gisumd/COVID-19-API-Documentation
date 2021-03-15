@@ -4,9 +4,8 @@ title: Requests
 nav_order: 7
 has_children: true
 ---
-Coming soon
-{: .label .label-yellow }
 
 # Requests
 
-Test requests
+You can request and get data from our API by simply typing  a url in your web browser. 
+For infomation on how to use Python or R to make calls to the API, see Tutorials. 
