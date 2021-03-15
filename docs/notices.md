@@ -7,7 +7,7 @@ nav_order: 3
 # Notices and Updates
 <div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
 For updates, including data corrections, new aggregates, and any other changes to the API, we encourage you to <a href="https://listserv.umd.edu/cgi-bin/wa?SUBED1=COVID19-API&A=1" target='_blank'>subscribe</a> to our COVID-19 API mailing list.
-</div><br>
+</div>
 
 | Date                | Notice            |
 |:--------------------|:------------------|
