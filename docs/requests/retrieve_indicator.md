@@ -84,5 +84,7 @@ For example, to get the `daily` data for the `covid` indicator for the country o
 ```
 
 Set `country` to `all` to retrieve all the country data for a specified indicator.
+
 Set `region` to `all` to retrieve all the regional data for a specified indicator.
+
 Set `type` to `smoothed` to retrieve smoothed aggregates.

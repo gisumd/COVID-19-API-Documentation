@@ -2,7 +2,7 @@
 layout: default
 title: Retrieve data from the API using Python
 nav_order: 2
-parent: Turotials
+parent: Tutorials
 ---
 
 ## How to use this API in Python

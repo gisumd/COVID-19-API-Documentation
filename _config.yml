@@ -12,4 +12,4 @@ url: "https://gisumd.github.io" # the base hostname & protocol for your site, e.
 
 exclude: ["CONTRIBUTING.md", "README.md"]
 
-
+footer_content: "Copyright &copy; 2020 <a href=\"https://geospatial.umd.edu\">Center for Geospatial Information Science</a>, University of Maryland, College Park."

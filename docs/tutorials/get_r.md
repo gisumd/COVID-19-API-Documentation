@@ -2,7 +2,7 @@
 layout: default
 title: Retrieve data from the API using R
 nav_order: 1
-parent: Turotials
+parent: Tutorials
 ---
 
 ## How to use this API in R
