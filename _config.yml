@@ -6,6 +6,6 @@ aux_links:
   "COVID-19 World Symptoms Survey":
     - "//covidmap.umd.edu"
 
-exclude: ["CONTRIBUTING.md"]
+exclude: ["CONTRIBUTING.md", "README.md"]
 
 
