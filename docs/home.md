@@ -21,4 +21,4 @@ Facebook provides weights to reduce nonresponse and coverage bias. Country and r
 Over half a million responses are collected daily.  Data for the United States is not included in the World Symptoms Survey but is available at [covidcast.cmu.edu](https://delphi.cmu.edu/covidcast/?date=20210308&region=42003)
 
 
-![Image of umd]({{ site.baseurl }}{% link doassetscs/images/umd-globe.svg %})
+![Image of umd]({{ site.baseurl }}{% link assets/images/umd-globe.svg %})
