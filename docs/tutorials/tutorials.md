@@ -7,4 +7,4 @@ has_children: true
 
 # Tutorials
 
-Sample turorials on using the API.
+Sample tutorials on using the API.
