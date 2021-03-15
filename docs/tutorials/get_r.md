@@ -8,7 +8,7 @@ parent: Tutorials
 ## How to use this API in R
 
 This sample code gets `smoothed` `covid` data for `France` between `11/15/2020` and `11/30/2020`
-```
+```r
 library(tidyverse)
 library(httr)
 library(jsonlite)
