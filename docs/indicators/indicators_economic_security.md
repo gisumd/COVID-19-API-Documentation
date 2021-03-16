@@ -5,12 +5,9 @@ nav_order: 3
 parent: Indicators
 ---
 
-Coming soon
-{: .label .label-yellow }
-
 ## List of Economic Security Indicators
 
-List of indicator aggregate data for survey economic survey questions
+List of economic security indicators
 
 | Indicator        | Description          | Survey Question Used |
 |:----------------------------------------|:---------------------|:---------------------|

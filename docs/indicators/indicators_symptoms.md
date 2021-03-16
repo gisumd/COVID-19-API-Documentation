@@ -5,12 +5,9 @@ nav_order: 1
 parent: Indicators
 ---
 
-Coming soon
-{: .label .label-yellow }
-
 ## List of Symptom Indicators
 
-List of indicator aggregate data for survey symptom questions
+List of symptom indicators.
 
 | Indicator        | Description          | Survey Question Used |
 |:----------------------------------------|:---------------------|:---------------------|

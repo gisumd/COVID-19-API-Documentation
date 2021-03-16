@@ -7,7 +7,7 @@ parent: Indicators
 
 ## List of Vaccine Indicators
 
-List of indicator aggregate data for survey vaccine questions
+List of vaccine related indicators.
 
 
 List of indicator aggregate data currently available

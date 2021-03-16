@@ -7,7 +7,7 @@ has_children: true
 
 # Indicators
  
-List of indicator aggregate data currently available
+List of indicator aggregate data currently available.
 
 | Indicator        | Description          | Survey Question Used |
 |:----------------------------------------|:---------------------|:---------------------|

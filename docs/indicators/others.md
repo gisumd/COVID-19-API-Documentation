@@ -8,7 +8,7 @@ parent: Indicators
 ## List of Other Indicators
 
 
-List of indicator aggregate data currently available
+List of other indicators not yet categorized.
 
 | Indicator        | Description          | Survey Question Used |
 |:----------------------------------------|:---------------------|:---------------------|

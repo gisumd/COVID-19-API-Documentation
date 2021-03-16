@@ -7,7 +7,7 @@ parent: Indicators
 
 ## List of Behavior Indicators
 
-List of indicator aggregate data for survey behavior questions
+List of behavior indicators, including mask wearing and more.
 
 
 | Indicator        | Description          | Survey Question Used |
