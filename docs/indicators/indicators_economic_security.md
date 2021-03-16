@@ -7,7 +7,7 @@ parent: Indicators
 
 ## List of Economic Security Indicators
 
-List of economic security indicators
+List of economic security indicators.
 
 | Indicator        | Description          | Survey Question Used |
 |:----------------------------------------|:---------------------|:---------------------|

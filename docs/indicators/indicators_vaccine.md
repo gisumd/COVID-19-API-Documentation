@@ -9,9 +9,6 @@ parent: Indicators
 
 List of vaccine related indicators.
 
-
-List of indicator aggregate data currently available
-
 | Indicator        | Description          | Survey Question Used |
 |:----------------------------------------|:---------------------|:---------------------|
 | `vaccine_acpt`                            | Respondents definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them    | V3  |
