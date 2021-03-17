@@ -53,3 +53,4 @@ List of indicator aggregate data currently available
 | `informed_access`                         | Respondents who reported being very informed or moderately informed about how to be able to get a COVID-19 vaccine.	   | V13  |
 | `appointment_have`                        | Respondents who reported having an appointment to receive a COVID-19 vaccine.   | V15  |
 | `appointment_tried`                       | Respondents who reported having tried to get an appointment to receive a COVID-19 vaccine.   | V16  |
+| `appointment_tried_test`                       | Respondents who reported having tried to get an appointment to receive a COVID-19 vaccine.   | V16  |
