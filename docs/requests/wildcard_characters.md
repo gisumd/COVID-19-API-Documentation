@@ -7,6 +7,8 @@ parent: Requests
 
 # Retrieve data using wildcard characters
 A wildcard character is a special character that represents one or more other characters.
+- `%` matches any sequence of zero of more characters or numbers.
+- `_` matches any single character or number.
 
 To retrive data using the `%` character:
 
