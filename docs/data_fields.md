@@ -6,7 +6,8 @@ nav_order: 6
 
 # Data Fields
 
-Data fields returned form an API query
+Data fields returned form an API query.
+**Note:** all smoothed data fields is weighted. 
 
 | Field              | Description          |
 |:-------------------|:---------------------|

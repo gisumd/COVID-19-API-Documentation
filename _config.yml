@@ -13,3 +13,7 @@ url: "https://gisumd.github.io" # the base hostname & protocol for your site, e.
 exclude: ["CONTRIBUTING.md", "README.md"]
 
 footer_content: "Copyright &copy; 2021 <a href=\"https://geospatial.umd.edu\">Center for Geospatial Information Science</a>, University of Maryland, College Park."
+
+# Google Analytics Tracking
+ga_tracking: UA-161875924-3
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings
