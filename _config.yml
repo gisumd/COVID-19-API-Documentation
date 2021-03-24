@@ -16,4 +16,4 @@ footer_content: "Copyright &copy; 2021 <a href=\"https://geospatial.umd.edu\">Ce
 
 # Google Analytics Tracking
 ga_tracking: UA-161875924-3
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings
+ga_tracking_anonymize_ip: false # Use GDPR compliant Google Analytics settings
