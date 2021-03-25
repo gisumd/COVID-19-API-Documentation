@@ -18,7 +18,6 @@ We have released new indicators for behavior and mental health questions!
 
 See the Indicator section for more information.
 </div>
----
 
 # About
 
