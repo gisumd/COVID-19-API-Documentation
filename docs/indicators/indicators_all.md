@@ -57,7 +57,7 @@ parent: Indicators
 | `spent_time_1d`                       | Respondents who spent time with someone who isn’t currently staying with them in the past 24 hours.	   | C0_4  |
 | `large_event_1d`                       | Respondents who attended an event with more than 10 people in the past 24 hours.	   | C0_5  |
 | `public_transit_1d`                       | Respondents who used public transit in the past 24 hours.	   | C0_6  |
-| `food_security`                       | Respondents who are very worried or somehow worried about will they have enough to eat in the next week.	   | D4  |
-| `anxious_7d`                       | Respondents who reported feeling nervous, anxious, or on edge for most or all of the past 7 days.	   | D1  |
-| `depressed_7d`                       | Respondents who reported feeling depressed for most or all of the past 7 days.	   | D2  |
+| `food_security`                       | Respondents who are very worried or somewhat worried about having enough to eat in the next week.	   | D4  |
+| `anxious_7d`                       | Respondents who reported feeling nervous, anxious, or on edge for most or all of the time over the the past 7 days.	   | D1  |
+| `depressed_7d`                       | Respondents who reported feeling depressed most or all of the time over the past 7 days.	   | D2  |
 | `worried_become_ill`                       | Respondents who reported feeling very or somewhat worried that they or someone in their immediate family might become seriously ill from COVID-19.	   | D3  |
