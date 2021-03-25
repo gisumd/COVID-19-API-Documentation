@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Mental Health
-nav_order: 6
+nav_order: 5
 parent: Indicators
 ---
 
-## List of Other Indicators
+## List of Mental Health Indicators
 
 List of mental health indicators.
 
