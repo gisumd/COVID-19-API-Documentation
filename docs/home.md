@@ -12,6 +12,14 @@ An Open API to access aggregated COVID-19 World Survey data.
 [Survey Results](https://covidmap.umd.edu/map/results.html){: .btn .btn-red }
 [Microdata](https://covidmap.umd.edu/fbsurvey/){: .btn .btn-red }
 
+---
+<div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
+We have released new indicators for behavior and mental health questions!
+
+See the Indicator section for more information.
+</div>
+---
+
 # About
 
 The COVID-19 World Symptoms Survey is a partnership between Facebook and other academic institutions. The survey is available in 56 languages. A representative sample of Facebook users is invited on a daily basis to report on topics including, for example, symptoms, social distancing behavior, vaccine acceptance, mental health issues, and financial constraints. 
