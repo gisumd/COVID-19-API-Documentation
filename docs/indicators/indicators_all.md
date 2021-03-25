@@ -1,7 +1,7 @@
 ---
 layout: default
 title: All
-nav_order: 6
+nav_order: 7
 parent: Indicators
 ---
 
@@ -51,3 +51,13 @@ parent: Indicators
 | `informed_access`                         | Respondents who reported being very informed or moderately informed about how to be able to get a COVID-19 vaccine.	   | V13  |
 | `appointment_have`                        | Respondents who reported having an appointment to receive a COVID-19 vaccine.   | V15  |
 | `appointment_tried`                       | Respondents who reported having tried to get an appointment to receive a COVID-19 vaccine.   | V16  |
+| `work_outside_home_1d`                       | Respondents who worked or went to school outside their home in the past 24 hours.	   | C0_1  |
+| `shop_1d`                       | Respondents who went to a market, grocery store, or pharmacy in the past 24 hours.	   | C0_2  |
+| `restaurant_1d`                       | Respondents who went to a bar, restaurant, or cafe in the past 24 hours.	   | C0_3  |
+| `spent_time_1d`                       | Respondents who spent time with someone who isn’t currently staying with them in the past 24 hours.	   | C0_4  |
+| `large_event_1d`                       | Respondents who attended an event with more than 10 people in the past 24 hours.	   | C0_5  |
+| `public_transit_1d`                       | Respondents who used public transit in the past 24 hours.	   | C0_6  |
+| `food_security`                       | Respondents who are very worried or somehow worried about will they have enough to eat in the next week.	   | D4  |
+| `anxious_7d`                       | Respondents who reported feeling nervous, anxious, or on edge for most or all of the past 7 days.	   | D1  |
+| `depressed_7d`                       | Respondents who reported feeling depressed for most or all of the past 7 days.	   | D2  |
+| `worried_become_ill`                       | Respondents who reported feeling very or somewhat worried that they or someone in their immediate family might become seriously ill from COVID-19.	   | D3  |
