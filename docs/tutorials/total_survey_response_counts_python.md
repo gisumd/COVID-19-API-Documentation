@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Retrieve total survey response counts from the API using Python
+title: Retrieve total survey response counts using Python
 nav_order: 3
 parent: Tutorials
 ---

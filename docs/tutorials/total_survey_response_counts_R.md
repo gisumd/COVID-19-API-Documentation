@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Retrieve total survey response counts from the API using R
+title: Retrieve total survey response counts using R
 nav_order: 4
 parent: Tutorials
 ---
