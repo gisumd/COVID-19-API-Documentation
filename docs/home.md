@@ -15,7 +15,6 @@ An Open API to access aggregated COVID-19 World Survey data.
 ---
 <div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
 We have released new indicators for behavior and mental health questions!
-
 See the Indicator section for more information.
 </div>
 
