@@ -9,6 +9,6 @@ parent: Indicators
 
 List of economic security indicators.
 
-| Indicator        | Description          | Survey Question Used |
-|:----------------------------------------|:---------------------|:---------------------|
-| `finance`                                 | Respondents who are very worried or somewhat worried about themselves and their household's finances.    | D5  |
+| Indicator        | Description          | Survey Question Used | Earliest Date Available |
+|:----------------------------------------|:---------------------|:---------------------|:---------------------|
+| `finance`                                 | Respondents who are very worried or somewhat worried about themselves and their household's finances.    | D5  | 2020-05-01 |
