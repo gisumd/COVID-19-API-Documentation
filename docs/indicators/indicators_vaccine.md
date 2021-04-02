@@ -14,7 +14,7 @@ List of vaccine related indicators.
 | `vaccine_acpt`                            | Respondents definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them    | V3  | 2020-12-21 |
 | `covid_vaccine`                           | Respondents vaccinated with a COVID-19 vaccine.   | V1  | 2021-02-05 |
 | `trust_fam`                               | Respondents more likely to get vaccinated if recommended by friends and family.    | V4_1  | 2020-12-21 |
-| `trust_healthcare`                        | Respondents more likely to get vaccinated if recommended by local healthcare workers. **Note:** no longer being populated. It has been replaced by trust_doctors.    | V4_2  | 2020-12-21 **Note:** replaced on 2021-02-05 |
+| `trust_healthcare`                        | Respondents more likely to get vaccinated if recommended by local healthcare workers. **Note:** no longer being populated. It has been replaced by trust_doctors.    | V4_2  | From 2020-12-21 To 2021-02-05 |
 | `trust_who`                               | Respondents more likely to get vaccinated if recommended by the WHO.    | V4_3  | 2020-12-21 |
 | `trust_govt`                              | Respondents more likely to get vaccinated if recommended by government health officials.    | V4_4  | 2020-12-21 |
 | `trust_politicians`                       | Respondents more likely to get vaccinated if recommended by politicians.    | V4_5  | 2020-12-21 |
