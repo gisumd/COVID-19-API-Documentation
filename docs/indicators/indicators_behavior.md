@@ -12,7 +12,7 @@ List of behavior indicators, including mask wearing and more.
 
 | Indicator        | Description          | Survey Question Used | Earliest Date Available |
 |:----------------------------------------|:---------------------|:---------------------|:---------------------|
-| `mask`                                    | Respondents who wore a mask all the time or most of the time when in public.        | C5   | 2020-04-23 |
+| `mask`                                    | Respondents who wore a mask all the time or most of the time when in public.        | [C5]({{ site.baseurl }}{% link docs/formulas/mask_formula.md %})   | 2020-04-23 |
 | `contact`                                 | Respondents that have reported having had direct contact (longer than 1 minute) with people not staying with them.   | C1_m  | 2020-04-23 |
 | `work_outside_home_1d`                       | Respondents who worked or went to school outside their home in the past 24 hours.	   | C0_1  | 2020-04-23 |
 | `shop_1d`                       | Respondents who went to a market, grocery store, or pharmacy in the past 24 hours.	   | C0_2  | 2020-04-23 |
