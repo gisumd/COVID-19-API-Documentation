@@ -6,6 +6,12 @@ nav_order: 4
 
 # Survey Aggregates
 
+---
+**Note:** Aggregates for the API, map, and survey results page are shown for **weighted countries only**. Please find the complete list of countries that are weighted by Facebook here.  
+Microdata files include both weighted and unweighted countries. For more information on how to gain access to the microdata go [here](https://dataforgood.fb.com/docs/covid-19-symptom-survey-request-for-data-access/).
+
+---
+
 To get aggregates you need to make a call to the following url:
 
 `https://covidmap.umd.edu/api/resources?indicator={indicator}&type={type}&country={country}&date={date}`

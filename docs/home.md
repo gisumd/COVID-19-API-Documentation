@@ -26,5 +26,8 @@ Facebook provides weights to reduce nonresponse and coverage bias. Country and r
 
 Over half a million responses are collected daily.  Data for the United States is not included in the World Symptoms Survey but is available at [covidcast.cmu.edu](https://delphi.cmu.edu/covidcast/?date=20210308&region=42003)
 
+---
+**Note:** Aggregates for the API, map, and survey results page are shown for **weighted countries only**. Please find the complete list of countries that are weighted by Facebook here.  
+Microdata files include both weighted and unweighted countries. For more information on how to gain access to the microdata go [here](https://dataforgood.fb.com/docs/covid-19-symptom-survey-request-for-data-access/).
 
 ![Image of umd](https://geospatial.umd.edu/themes/custom/bsos_bootstrap/images/umd-globe.svg)
