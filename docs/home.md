@@ -8,9 +8,10 @@ nav_order: 1
 An Open API to access aggregated COVID-19 World Survey data.
 
 [Home Page](https://covidmap.umd.edu){: .btn .btn-red }
-[Map](https://covidmap.umd.edu/map/){: .btn .btn-re }
+[Map](https://covidmap.umd.edu/map/){: .btn .btn-red }
 [Survey Results](https://covidmap.umd.edu/map/results.html){: .btn .btn-red }
 [Microdata](https://covidmap.umd.edu/fbsurvey/){: .btn .btn-red }
+[Contingency Tables](https://covidmap.umd.edu/fbsurvey/){: .btn .btn-red }
 
 ---
 <div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
