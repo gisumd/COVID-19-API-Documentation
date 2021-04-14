@@ -11,7 +11,7 @@ An Open API to access aggregated COVID-19 World Survey data.
 [Map](https://covidmap.umd.edu/map/){: .btn .btn-red }
 [Survey Results](https://covidmap.umd.edu/map/results.html){: .btn .btn-red }
 [Microdata](https://covidmap.umd.edu/fbsurvey/){: .btn .btn-red }
-[Contingency Tables](https://covidmap.umd.edu/fbsurvey/){: .btn .btn-red }
+[Contingency Tables](https://covidmap.umd.edu/umdcsvs/Contingency_Tables/){: .btn .btn-red }
 
 ---
 <div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
