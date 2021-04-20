@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Retrieve data from the API using Python
+title: Python
 nav_order: 2
 parent: Tutorials
 ---

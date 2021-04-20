@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Retrieve data from the API using the Episuite Package
+title: Episuite Package
 nav_order: 5
 parent: Tutorials
 ---
