@@ -25,7 +25,7 @@ To retrive the list of available countries:
 
 To retrive the list of available regions:
 
-`https://covidmap.umd.edu/api/country`
+`https://covidmap.umd.edu/api/region`
 
 ```
 {"data":
