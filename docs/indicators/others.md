@@ -12,7 +12,5 @@ List of other indicators not yet categorized.
 
 | Indicator        | Description          | Survey Question Used | Earliest Date Available |
 |:----------------------------------------|:---------------------|:---------------------|:---------------------|
-| `access_wash`                             | Respondents with access to soap and water for washing their hands.   | C8  | 2020-06-27 |
-| `wash_hands_24h_3to6`                     | Respondents who washed their hands 3 to 6 times in the last 24 hours.   | C7  | 2020-06-27 |
-| `wash_hands_24h_7orMore`                  | Respondents who washed their hands 7+ times in the last 24 hours.    | C7  | 2020-06-27 |
+
 
