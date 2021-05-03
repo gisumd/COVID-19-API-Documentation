@@ -63,20 +63,21 @@ parent: Indicators
 | `worried_become_ill`                       | Respondents who reported feeling very or somewhat worried that they or someone in their immediate family might become seriously ill from COVID-19.	   | D3  | 2020-04-23 |
 | `pay_test`                       | Respondents who pay for the COVID-19 test.	   | B9  | 2020-06-27 |
 | `reduce_spending`                       | Respondents who report they reduce spending on things they need because of the cost of COVID-19 test.	   | B10  | 2020-06-27 |
-| `sx_chills`                       | Respondents reporting chills.	   | B1_13  | 2020-05-07 |
-| `sx_sleep_changes`                       | Respondents reporting changes to sleep.	   | B1_14  | 2020-11-23 |
+| `symp_chills`                       | Respondents reporting chills.	   | B1_13  | 2020-05-07 |
+| `symp_sleep_changes`                       | Respondents reporting changes to sleep.	   | B1_14  | 2020-11-23 |
 | `testing_rate`                       | Respondents who report they have been tested for COVID-19 in the past 14 days,  regardless of their test result.	   | B7  | 2020-04-23 |
 | `tested_positive_recent`                       | Respondents who report they have been tested positive for COVID-19 in a recent test. 	   | B8  | 2020-04-23 |
 | `tested_positive_14d`                       | Respondents who report they have been tested positive for COVID-19 in the past 14 days. **Note:** same as "tested_positive_recent"	   | B7,B8  | 2020-04-23 |
-| `sx_fever`                       | Respondents reporting fever.    	   | B1_1  | 2020-04-23 |
-| `sx_cough`                       | Respondents reporting cough.    	   | B1_2  | 2020-04-23 |
-| `sx_diff_breathing`                       | Respondents reporting difficulty breathing.    	   | B1_3  | 2020-04-23 |
-| `sx_fatigue`                       | Respondents reporting fatigue.    	   | B1_4  | 2020-04-23 |
-| `sx_stuffy_nose`                       | Respondents reporting stuffy or runny nose.    	   | B1_5  | 2020-04-23 |
-| `sx_aches`                       | Respondents reporting aches or muscle pain.    	   | B1_6  | 2020-04-23 |
-| `sx_sore_throat`                       | Respondents reporting sore_throat.    	   | B1_7  | 2020-04-23 |
-| `sx_chest_pain`                       | Respondents reporting chest pain.    	   | B1_8  | 2020-04-23 |
-| `sx_nausea`                       | Respondents reporting nausea.    	   | B1_9  | 2020-04-23 |
-| `sx_eye_pain`                       | Respondents reporting eye pain.    	   | B1_11  | 2020-04-23 |
-| `sx_headache`                       | Respondents reporting headache.    	   | B1_12  | 2020-04-23 |
+| `symp_fever`                       | Respondents reporting fever.    	   | B1_1  | 2020-04-23 |
+| `symp_cough`                       | Respondents reporting cough.    	   | B1_2  | 2020-04-23 |
+| `symp_diff_breathing`                       | Respondents reporting difficulty breathing.    	   | B1_3  | 2020-04-23 |
+| `symp_fatigue`                       | Respondents reporting fatigue.    	   | B1_4  | 2020-04-23 |
+| `symp_stuffy_nose`                       | Respondents reporting stuffy or runny nose.    	   | B1_5  | 2020-04-23 |
+| `symp_aches`                       | Respondents reporting aches or muscle pain.    	   | B1_6  | 2020-04-23 |
+| `symp_sore_throat`                       | Respondents reporting sore_throat.    	   | B1_7  | 2020-04-23 |
+| `symp_chest_pain`                       | Respondents reporting chest pain.    	   | B1_8  | 2020-04-23 |
+| `symp_nausea`                       | Respondents reporting nausea.    	   | B1_9  | 2020-04-23 |
+| `symp_eye_pain`                       | Respondents reporting eye pain.    	   | B1_11  | 2020-04-23 |
+| `symp_headache`                       | Respondents reporting headache.    	   | B1_12  | 2020-04-23 |
 | `ever_tested`                       | Respondents who report they have ever been tested for COVID-19.    	   | B6  | 2020-04-23 |
+| `sick_spending_time_7d`                       | Respondents who spent time with any of these people in the last 7 days (sick with a fever and either a cough or difficulty breathing).    	   | B5  | 2020-04-23 |
