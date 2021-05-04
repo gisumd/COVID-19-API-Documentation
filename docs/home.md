@@ -15,8 +15,7 @@ An Open API to access aggregated COVID-19 World Survey data.
 
 ---
 <div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
-We have released new indicators for behavior and mental health questions!
-See the <a href="https://gisumd.github.io/COVID-19-API-Documentation/docs/indicators/indicators.html">Indicator</a> section for more information.
+A new notice has been posted on 05/03/2021 !
 </div>
 
 # About
