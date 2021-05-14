@@ -7,7 +7,7 @@ aux_links:
     - "//covidmap.umd.edu"
 aux_links_new_tab: true
 
-baseurl: "/COVID-19-API-Documentation/docs/home.html" # the subpath of your site, e.g. /blog
+baseurl: "/COVID-19-API-Documentation/" # the subpath of your site, e.g. /blog
 url: "https://gisumd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 exclude: ["CONTRIBUTING.md", "README.md"]
