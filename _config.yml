@@ -10,7 +10,7 @@ aux_links_new_tab: true
 baseurl: "/COVID-19-API-Documentation/" # the subpath of your site, e.g. /blog
 url: "https://gisumd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-exclude: ["CONTRIBUTING.md", "README.md"]
+exclude: ["CONTRIBUTING.md", "README.md", "home.md"]
 
 footer_content: "Copyright &copy; 2021 <a href=\"https://geospatial.umd.edu\">Center for Geospatial Information Science</a>, University of Maryland, College Park."
 
