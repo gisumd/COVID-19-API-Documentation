@@ -20,7 +20,7 @@ List of vaccine related indicators.
 | `trust_politicians`                       | Respondents more likely to get vaccinated if recommended by politicians.    | V4_5  | 2020-12-21 |
 | `twodoses`                                | Respondents having received 2 doses of a COVID-19 vaccine.    | V2  | 2021-01-14 |
 | `concerned_sideeffects`                   | Respondents being very or moderately concerned about COVID-19 vaccine side effects.    | V9  | 20201-01-14 |
-| `hesitant_sideeffects`                    | Respondents very or moderately concerned about COVID-19 vaccine side effects, conditional on being hesitant (would NOT choose to get vaccinated if offered a vaccine).    | V3, V9  | 2021-01-14 |
+| `hesitant_sideeffects`                    | Respondents very or moderately concerned about COVID-19 vaccine side effects, conditional on being hesitant (would NOT choose to get vaccinated if offered a vaccine).            | V3, V9 **Note:Item # change to V3a, V9 after 2021-05-20**  | 2021-01-14 |
 | `modified_acceptance`                     | Respondents that are vaccine accepting where people who are vaccinated are included as accepting.    | V1, V3  | 2021-01-05 |
 | `barrier_reason_side_effects`             | Respondents who are concerned about possible side effects of a COVID-19 vaccine.    | V5a_1,V5b_1,V5c_1  | 2021-02-05 |
 | `barrier_reason_wontwork`                 | Respondents who don’t know if a COVID-19 vaccine will work.   | V5a_2,V5b_2,V5c_2  | 2021-02-05 |
@@ -43,3 +43,8 @@ List of vaccine related indicators.
 | `informed_access`                         | Respondents who reported being very informed or moderately informed about how to be able to get a COVID-19 vaccine.	   | V13  | 2021-03-01 |
 | `appointment_have`                        | Respondents who reported having an appointment to receive a COVID-19 vaccine.   | V15  | 2021-03-01 |
 | `appointment_tried`                       | Respondents who reported having tried to get an appointment to receive a COVID-19 vaccine.   | V16  | 2021-03-01 |
+| `vaccinated_appointment_or_accept`                       | Respondents who had a vaccine, an appointment to get vaccinated or who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them, out of the respondents who have been vaccinated.              	   | V1, V15a, V3a  | 2021-05-20 |
+| `appointment_or_accept_covid_vaccine`                       | Respondents who have an appointment to get vaccinated or who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them, out of the respondents who have not been vaccinated.                     	   | V15a, V3a  | 2021-05-20 |
+| `accept_covid_vaccine_no_appointment`                       | Respondents who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them.               	   | V3a | 2021-05-20 |
+| `appointment_not_vaccinated`                       | Respondents who reported having an appointment to receive a COVID-19 vaccine, out of all those that have not been vaccinated.               	   | V15a | 2021-05-20 |
+| `vaccine_tried`                       | Respondents who reported having tried to get a COVID-19 vaccine, out of all those that have not been vaccinated AND are not hesitant.               	   | V16a | 2021-05-20 |

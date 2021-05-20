@@ -17,7 +17,7 @@ An Open API to access aggregated COVID-19 World Survey data.
 
 ---
 <div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
-A new notice has been posted on 05/11/2021 !
+A new notice has been posted on 05/20/2021 !
 See the <a href="https://gisumd.github.io/COVID-19-API-Documentation/docs/notices.html">Notices and Updates</a> section for more information.
 </div>
 
