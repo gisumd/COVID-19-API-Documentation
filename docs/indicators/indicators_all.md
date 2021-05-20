@@ -24,7 +24,7 @@ parent: Indicators
 | `trust_politicians`                       | Respondents more likely to get vaccinated if recommended by politicians.    | V4_5  | 2020-12-21 |
 | `twodoses`                                | Respondents having received 2 doses of a COVID-19 vaccine.    | V2  | 2021-01-14 |
 | `concerned_sideeffects`                   | Respondents being very or moderately concerned about COVID-19 vaccine side effects.    | V9  | 2021-01-14 |
-| `hesitant_sideeffects`                    | Respondents very or moderately concerned about COVID-19 vaccine side effects, conditional on being hesitant (would NOT choose to get vaccinated if offered a vaccine).    | V3, V9  | 2021-01-14 |
+| `hesitant_sideeffects`                    | Respondents very or moderately concerned about COVID-19 vaccine side effects, conditional on being hesitant (would NOT choose to get vaccinated if offered a vaccine).            | V3, V9 **Note:Item # change to V3a, V9 after 2021-05-20**  | 2021-01-14 |
 | `modified_acceptance`                     | Respondents that are vaccine accepting where people who are vaccinated are included as accepting.    | V1, V3  | 2021-01-05 |
 | `access_wash`                             | Respondents with access to soap and water for washing their hands.   | C8  | 2020-06-27 |
 | `wash_hands_24h_3to6`                     | Respondents who washed their hands 3 to 6 times in the last 24 hours.   | C7  | 2020-06-27 |
@@ -66,7 +66,7 @@ parent: Indicators
 | `symp_chills`                       | Respondents reporting chills.	   | B1_13  | 2020-05-07 |
 | `symp_sleep_changes`                       | Respondents reporting changes to sleep.	   | B1_14  | 2020-11-23 |
 | `testing_rate`                       | Respondents who report they have been tested for COVID-19 in the past 14 days,  regardless of their test result.	   | B7  | 2020-04-23 |
-| `tested_positive_recent`                       | Respondents who report they have been tested positive for COVID-19 in a recent test. 	   | B8  | 2020-04-23 |
+| `tested_positive_recent`                       | Respondents who report they have tested positive for COVID-19 in a recent test. 	   | B8 **Note: Item # change to B8a since 2021-05-20**  | 2020-04-23 |
 | `tested_positive_14d`                       | Respondents who report they have been tested positive for COVID-19 in the past 14 days. **Note:** same as "tested_positive_recent"	   | B7,B8  | 2020-04-23 |
 | `symp_fever`                       | Respondents reporting fever.    	   | B1_1  | 2020-04-23 |
 | `symp_cough`                       | Respondents reporting cough.    	   | B1_2  | 2020-04-23 |
@@ -83,4 +83,15 @@ parent: Indicators
 | `sick_spending_time_7d`                       | Respondents who spent time with any of these people in the last 7 days (sick with a fever and either a cough or difficulty breathing).    	   | B5  | 2020-04-23 |
 | `flu_vaccine_thisyr`                       | Respondents who had a seasonal flu vaccination since July 1, 2020.    	   | C9a  | 2021-02-05 |
 | `flu_vaccine_lastyr`                       | Respondents who get a flu vaccine between June 2019 and February 2020.    	   | C12  | 2020-11-23 |
-| `avoid_contact`                       | Respondents who intentionally avoiding contact with other people all the time or most of the time.    	   | C14  | 2020-11-23 |
+| `avoid_contact`                       | Respondents who intentionally avoiding contact with other people all the time or most of the time.   	   | C14 **Note: Item # change to C14a since 2021-05-20** | 2020-11-23  |
+| `vaccinated_appointment_or_accept`                       | Respondents who had a vaccine, an appointment to get vaccinated or who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them, out of the respondents who have been vaccinated.              	   | V1, V15a, V3a  | 2021-05-20 |
+| `appointment_or_accept_covid_vaccine`                       | Respondents who have an appointment to get vaccinated or who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them, out of the respondents who have not been vaccinated.                     	   | V15a, V3a  | 2021-05-20 |
+| `accept_covid_vaccine_no_appointment`                       | Respondents who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them.               	   | V3a | 2021-05-20 |
+| `appointment_not_vaccinated`                       | Respondents who reported having an appointment to receive a COVID-19 vaccine, out of all those that have not been vaccinated.               	   | V15a | 2021-05-20 |
+| `vaccine_tried`                       | Respondents who reported having tried to get a COVID-19 vaccine, out of all those that have not been vaccinated AND are not hesitant.               	   | V16a | 2021-05-20 |
+| `activity_large_event`                       | Respondents who attended an event with more than 10 people in the past 24 hours.               	   | C0a | 2021-05-20 |
+| `activity_public_transit`                       | Respondents who used public transit in the past 24 hours.               	   | C0a | 2021-05-20 |
+| `activity_restaurant_bar`                       | Respondents who went to a bar, restaurant, or cafe in the past 24 hours.               	   | C0a | 2021-05-20 |
+| `activity_shop`                       | Respondents who went to a market, grocery store, or pharmacy in the past 24 hours.               	   | C0a | 2021-05-20 |
+| `activity_spent_time`                       | Respondents who spent time with someone who isn’t currently staying with them in the past 24 hours.               	   | C0a | 2021-05-20 |
+| `activity_work_outside_home`                       | Respondents who worked outside their home in the past 24 hours.               	   | C0a | 2021-05-20 |
