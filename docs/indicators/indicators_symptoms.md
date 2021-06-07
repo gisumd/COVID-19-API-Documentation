@@ -28,3 +28,5 @@ List of symptom indicators.
 | `symp_nausea`                       | Respondents reporting nausea.    	   | B1_9  | 2020-04-23 |
 | `symp_eye_pain`                       | Respondents reporting eye pain.    	   | B1_11  | 2020-04-23 |
 | `symp_headache`                       | Respondents reporting headache.    	   | B1_12  | 2020-04-23 |
+| `cli_w11`                       | Respondents that have reported COVID-like illness (CLI). COVID-like illness: fever, along with cough, shortness of breath, or difficulty breathing.               	   | B1_1, B1_2, B1_3 **Note:80% respondents from v11 and 20% respondents from v10** | 2021-05-20 to 2021-06-17 |
+| `ili_w11`                       | Respondents that have reported Influenza-like illness (ILI). Influenza-like illness: fever, along with cough or sore throat.               	   | B1_1, B1_2, B1_7 **Note:80% respondents from v11 and 20% respondents from v10** | 2021-05-20 to 2021-06-17 |

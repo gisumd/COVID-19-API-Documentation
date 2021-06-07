@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Update Blogs
+title: Blog
 nav_order: 1
-parent: notice
+parent: Notices and Updates
 ---
 
 # Blog
