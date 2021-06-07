@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Notice and Updates
-nav_order: 8
+nav_order: 3
 has_children: true
 ---
 
