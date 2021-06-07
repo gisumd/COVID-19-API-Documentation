@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Notice and Updates
+title: Notices and Updates
 nav_order: 3
 has_children: true
 ---
 
 # Notices and Updates
 
-Checking the most up-to-date updates for the API.
+Checking all the notices and updates for our API. 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Updates
+title: Updates for API
 nav_order: 1
-parent: Notice and Updates
+parent: Notices and Updates
 ---
 
 # Notices and Updates
