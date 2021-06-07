@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 nav_order: 2
-parent: Notices and Updates
+parent: Notice and Updates
 ---
 
 # Blog

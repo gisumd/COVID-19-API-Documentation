@@ -2,7 +2,7 @@
 layout: default
 title: Updates
 nav_order: 1
-parent: Notices and Updates
+parent: Notice and Updates
 ---
 
 # Notices and Updates
