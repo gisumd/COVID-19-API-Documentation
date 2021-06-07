@@ -42,14 +42,14 @@ Trend breaks are expected with a major revision to a survey instrument. While we
 - **Continuing to monitor the data and analyze trend breaks for other indicators.** -->
 
 
-### TABLE 1. Symptoms instrument section wording and flow.
+<!-- ### TABLE 1. Symptoms instrument section wording and flow.
 
 
 | Wave 10 | Wave 11  |
 |-|-|
 | B1: In the last 24 hours, have you had any of the following? [list of symptoms] | B3: Do you personally know anyone in your local community who is sick with a fever and either a cough or difficulty breathing? |
 | B1b: Are any of these symptoms unusual for you? [list of positive symptoms from B1] | B1: The rest of the survey will go into more detail about your personal experience. In the past 24 hours, have you personally experienced any of the following symptoms? [list of symptoms] |
-| B3: Do you personally know anyone in your local community who is sick with a fever and either a cough or difficulty breathing? | B1b: Are any of these symptoms unusual for you? [list of positive symptoms from B1] |
+| B3: Do you personally know anyone in your local community who is sick with a fever and either a cough or difficulty breathing? | B1b: Are any of these symptoms unusual for you? [list of positive symptoms from B1] | -->
 
 
 <!-- ### TABLE 2. Countries and territories with and without significant differences in CLI between Wave 10 and Wave 11 for the same period (May 20 - 31, 2021). 
