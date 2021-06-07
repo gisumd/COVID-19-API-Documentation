@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Notices and Updates
-nav_order: 3
-has_children: true
+title: Updates
+nav_order: 1
+parent: Notices and Updates
 ---
 
 # Notices and Updates
