@@ -8,7 +8,7 @@ parent: Notices and Updates
 
 On May 20, 2021 we launched a major revision to the global survey instrument, our 11th wave of the survey (“Wave 11”). A primary goal of the revision was to harmonize our global instrument with the instrument being used by Carnegie Mellon University (CMU) for the US survey. This harmonization effort required changes to both the global and US instruments. In advance of, and shortly after, launching the instrument, we notified data users and posted a detailed change summary ([here](https://covidmap.umd.edu/document/[For%20Data%20Users][CSS]%20W11%20Change%20Summary.xlsx)) on covidmap.umd.edu. In this blog post, we outline the motivation for the revisions made to the instrument and discuss their effects on analyses of trends using the data before and after the launch of Wave 11. 
 
-## Motivation for the Wave 11 Revisions
+<!-- ## Motivation for the Wave 11 Revisions
 
 The primary goals of the Wave 11 revision were to increase comparability between the global and US instruments as well as to ask new questions about additional topics related to COVID knowledge, attitudes, and practices (KAP). The secondary goal of the Wave 11 revision was to reduce the length of the survey in order to decrease burden on our respondents and improve response rates. As part of the revision, we cut some items, added some items, revised some items, and restructured the survey to use a modular structure to cover more topics without increasing the length of the instrument. The new structure includes a core set of items asked of everyone and two modules that are each shown to 50% of the respondents, with half of respondents randomly assigned to “Module A” and half of respondents randomly assigned to “Module B.” 
 
@@ -39,7 +39,7 @@ Trend breaks are expected with a major revision to a survey instrument. While we
 - **Reverting back to the Wave 10 version of the symptom section questions.** Since there is no empirical evidence that one version of this section is more accurate than the other, and since these questions are used for both academic forecasting and dashboarding for decision-makers, we will revert back to the Wave 10 instrument to prevent continued discontinuity in their responses. 
 - **Increasing the overlap period between Wave 10 and Wave 11 to at least one month (instead of two weeks) ending on June 17, 2021** to allow for more data in which to analyze potential trend breaks in these and other signals. 
 - **Creating two new API indicators, `cli_w11` and `ili_w11`.** These indicators will be calculated similarly to the existing `covid` and `flu` indicators. Once these indicators are created, and all indicators are backfilled, the existing `covid` and `flu` indicators will contain estimates from the Wave 10 portion of the overlap, while the `cli_w11` and `ili_w11` indicators will reflect the Wave 11 portion of the data. This will allow direct comparison of the CLI and ILI values for the same time period from the two different instruments. We will inform all data users when these indicators are available.
-- **Continuing to monitor the data and analyze trend breaks for other indicators.**
+- **Continuing to monitor the data and analyze trend breaks for other indicators.** -->
 
 
 ### TABLE 1. Symptoms instrument section wording and flow.
