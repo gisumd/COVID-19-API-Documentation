@@ -5,8 +5,8 @@ nav_order: 2
 parent: Notices and Updates
 ---
 # Wave 10 and 11 cli Trend Break Blog 
-
-On May 20, 2021 we launched a major revision to the global survey instrument, our 11th wave of the survey (“Wave 11”). A primary goal of the revision was to harmonize our global instrument with the instrument being used by Carnegie Mellon University (CMU) for the US survey. This harmonization effort required changes to both the global and US instruments. In advance of, and shortly after, launching the instrument, we notified data users and posted a detailed change summary ([here](https://covidmap.umd.edu/document/[For%20Data%20Users][CSS]%20W11%20Change%20Summary.xlsx)) on covidmap.umd.edu. In this blog post, we outline the motivation for the revisions made to the instrument and discuss their effects on analyses of trends using the data before and after the launch of Wave 11. 
+<!-- 
+On May 20, 2021 we launched a major revision to the global survey instrument, our 11th wave of the survey (“Wave 11”). A primary goal of the revision was to harmonize our global instrument with the instrument being used by Carnegie Mellon University (CMU) for the US survey. This harmonization effort required changes to both the global and US instruments. In advance of, and shortly after, launching the instrument, we notified data users and posted a detailed change summary ([here](https://covidmap.umd.edu/document/[For%20Data%20Users][CSS]%20W11%20Change%20Summary.xlsx)) on covidmap.umd.edu. In this blog post, we outline the motivation for the revisions made to the instrument and discuss their effects on analyses of trends using the data before and after the launch of Wave 11.  -->
 
 <!-- ## Motivation for the Wave 11 Revisions
 
