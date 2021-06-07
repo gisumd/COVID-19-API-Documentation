@@ -42,7 +42,10 @@ Trend breaks are expected with a major revision to a survey instrument. While we
 - **Continuing to monitor the data and analyze trend breaks for other indicators.** -->
 
 
-### TABLE 1. Symptoms instrument section wording and flow.
+<!-- ### TABLE 1. Symptoms instrument section wording and flow. -->
+<div style="padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
+TABLE 1. Symptoms instrument section wording and flow.
+</div>
 | Wave 10 | Wave 11  |
 |-|-|
 | B1: In the last 24 hours, have you had any of the following? [list of symptoms] | B3: Do you personally know anyone in your local community who is sick with a fever and either a cough or difficulty breathing? |
