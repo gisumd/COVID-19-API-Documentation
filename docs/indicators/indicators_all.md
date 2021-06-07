@@ -95,3 +95,5 @@ parent: Indicators
 | `activity_shop`                       | Respondents who went to a market, grocery store, or pharmacy in the past 24 hours.               	   | C0a | 2021-05-20 |
 | `activity_spent_time`                       | Respondents who spent time with someone who isn’t currently staying with them in the past 24 hours.               	   | C0a | 2021-05-20 |
 | `activity_work_outside_home`                       | Respondents who worked outside their home in the past 24 hours.               	   | C0a | 2021-05-20 |
+| `cli_w11`                       | Respondents that have reported COVID-like illness (CLI). COVID-like illness: fever, along with cough, shortness of breath, or difficulty breathing.               	   | B1_1, B1_2, B1_3 **Note:80% respondents from v11 and 20% respondents from v10** | 2021-05-20 to 2021-06-17 |
+| `ili_w11`                       | Respondents that have reported Influenza-like illness (ILI). Influenza-like illness: fever, along with cough or sore throat.               	   | B1_1, B1_2, B1_7 **Note:80% respondents from v11 and 20% respondents from v10** | 2021-05-20 to 2021-06-17 |
