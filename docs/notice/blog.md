@@ -42,41 +42,6 @@ Below, we list the countries in which we observed statistically significant diff
 | With statistically significant differences in CLI | Without statistically significant differences in CLI | With inadequate overlap data<br>(n < 100) |
 |-|-|-|
 | Algeria<br>Argentina<br>Australia<br>Austria<br>Bangladesh<br>Belgium<br>Bolivia<br>Brazil<br>Chile<br>Colombia<br>Czech Republic<br>Ecuador<br>Egypt<br>El Salvador<br>France<br>Guatemala<br>Honduras<br>Hong Kong<br>India<br>Indonesia<br>Iraq<br>Ireland<br>Jordan<br>Kenya<br>Libya<br>Malaysia<br>Mexico<br>Morocco<br>Myanmar<br>Nepal<br>Netherlands<br>Nicaragua<br>Norway<br>Pakistan<br>Panama<br>Peru<br>Philippines<br>Portugal<br>Romania<br>Saudi Arabia<br>Singapore<br>Sri Lanka<br>Sudan<br>Sweden<br>Switzerland<br>Taiwan<br>United Arab Emirates<br>United Kingdom<br>Vietnam | Afghanistan<br>Belarus<br>Bulgaria<br>Canada<br>Costa Rica<br>Croatia<br>Denmark<br>Dominican Republic<br>Ethiopia<br>Finland<br>Germany<br>Ghana<br>Greece<br>Hungary<br>Israel<br>Italy<br>Japan<br>Kazakhstan<br>New Zealand<br>Nigeria<br>Paraguay<br>Poland<br>Puerto Rico, U.S.<br>Russia<br>Serbia<br>Slovakia<br>Slovenia<br>South Africa<br>South Korea<br>Spain<br>Thailand<br>Tunisia<br>Turkey<br>Ukraine<br>Uruguay<br>Venezuela | Albania<br>Angola<br>Armenia<br>Azerbaijan<br>Benin<br>Bosnia and Herzegovina<br>Burkina Faso<br>Cambodia<br>Cameroon<br>Democratic Republic of the Congo<br>Guinea<br>Haiti<br>Kuwait<br>Kyrgyzstan<br>Laos<br>Lebanon<br>Madagascar<br>Mali<br>Mauritania<br>Moldova<br>Mozambique<br>Oman<br>Palestine<br>Qatar<br>Senegal<br>Tanzania<br>Uzbekistan<br>Yemen |
-|  | Belarus |  |
-|  | Bulgaria |  |
-|  | Canada |  |
-|  | Costa Rica |  |
-|  | Croatia |  |
-|  | Denmark |  |
-|  | Dominican Republic |  |
-|  | Ethiopia |  |
-|  | Finland |  |
-|  | Germany |  |
-|  | Ghana |  |
-|  | Greece |  |
-|  | Hungary |  |
-|  | Israel |  |
-|  | Italy |  |
-|  | Japan |  |
-|  | Kazakhstan |  |
-|  | New Zealand |  |
-|  | Nigeria |  |
-|  | Paraguay |  |
-|  | Poland |  |
-|  | Puerto Rico, U.S. |  |
-|  | Russia |  |
-|  | Serbia |  |
-|  | Slovakia |  |
-|  | Slovenia |  |
-|  | South Africa |  |
-|  | South Korea |  |
-|  | Spain |  |
-|  | Thailand |  |
-|  | Tunisia |  |
-|  | Turkey |  |
-|  | Ukraine |  |
-|  | Uruguay |  |
-|  | Venezuela |  |
 
 
 
@@ -88,23 +53,24 @@ As noted above, an important goal in the instrument redesign was to increase res
 
 
 ### TABLE 3: Response Rates to Key Early Questionnaire Items
-||Raw|MICRODATA (Full weights)|
-|:--------------------|:------------------|:------------------|
-|First Symptoms Item|||
-|W10 - B1 (personal symptoms)|94.6%|99.2%|
-|W11 - B3 (community symptoms)|98.1%|99.6%|
-|Second Symptoms Item|||
-|W10 - B3 (community symptoms)|88.2%|93.8%|
-|W11 - B1 (personal symptoms)|90.8%|98.4%|
-|Unusual symptoms (B1b) - for those with positive symptoms|||
-|W10|46.3%|49.8%|
-|W11|43.7%|48.1%|
-|First Testing Question|||
-|W10 (ever been tested)|86.3%|91.7%|
-|W11 (tested last 14 days)|88.8%|94.6%|
-|Vaccine Uptake (V1)|||
-|W10|85.7%|90.8%|
-|W11|87.8%|93.3%|
+|  | RAW | MICRODATA <br>(Full weights) |
+|-|-|-|
+| First Symptoms Item |  |  |
+| W10 - B1 (personal symptoms) | 94.6% | 99.2% |
+| W11 - B3 (community symptoms) | 98.1% | 99.6% |
+| Second Symptoms Item |  |  |
+| W10 - B3 (community symptoms) | 88.2% | 93.8% |
+| W11 - B1 (personal symptoms) | 90.8% | 98.4% |
+| Unusual symptoms (B1b) - for those with positive symptoms |  |  |
+| W10 | 46.3% | 49.8% |
+| W11 | 43.7% | 48.1% |
+| First Testing Question |  |  |
+| W10 (ever been tested) | 86.3% | 91.7% |
+| W11 (tested last 14 days) | 88.8% | 94.6% |
+| Vaccine Uptake (V1) |  |  |
+| W10 | 85.7% | 90.8% |
+| W11 | 87.8% | 93.3% |
+
 NOTE: The denominator for all cells is the number of people answering the country question at the very start of the instrument.
 
 
