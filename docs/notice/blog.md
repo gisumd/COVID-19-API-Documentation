@@ -14,7 +14,7 @@ The primary goals of the Wave 11 revision were to increase comparability between
 
 Among the revisions made to the global instrument were minor changes to the individual and community symptoms questions. No changes were made to this section of the survey in the US instrument. In the global instrument, we reordered the individual and community symptoms questions, and we added a transition statement between the two measures. These changes are summarized in Table 1 below. The purpose of these changes was to harmonize the instrument with the US survey while maintaining high response rates in order to increase the fraction of respondents who continue on in the survey and respond to other important questions, including those in the vaccination section. 
 
-#### TABLE 1. Symptoms instrument section wording and flow.
+### TABLE 1. Symptoms instrument section wording and flow.
 
 
 | Wave 10 | Wave 11  |
@@ -35,7 +35,7 @@ Focusing on CLI specifically, we compared the Wave 10 estimate for the overlap p
 Below, we list the countries in which we observed statistically significant differences in CLI estimates between Waves 10 and 11 of the survey, along with those countries that did not have statistically significant differences, and those countries that had an inadequate number of responses in the Wave 10 overlap for reporting aggregates.
 
 
-#### TABLE 2. Countries and territories with and without significant differences in CLI between Wave 10 and Wave 11 for the same period (May 20 - 31, 2021). 
+### TABLE 2. Countries and territories with and without significant differences in CLI between Wave 10 and Wave 11 for the same period (May 20 - 31, 2021). 
 
 
 
@@ -52,24 +52,24 @@ One of the countries where the CLI trend break was first identified was Brazil. 
 As noted above, an important goal in the instrument redesign was to increase response rates and decrease the number of respondents leaving the survey midway through. As a part of our analysis, we looked at response rates to the first section of the survey as well as a couple questions that follow the symptoms section (Table 3). In this table we look at the response rates in survey order, with B1 as the first symptoms item in Wave 10 and B3 the first symptoms item in Wave 11. We see that the Wave 11 instrument has fewer respondents breaking off after the first two symptom items. Moving forward in the survey, we also see slightly higher item response rates for testing and vaccine items in Wave 11, indicating that perhaps the cuts to the front section of the instrument may have had the intended effect of reducing breakoff across the instrument. However, these comparisons are insufficient evidence to conclude that the specific changes made to the symptoms section improve response rates because we don’t have a way to distinguish between the effects of symptom section changes and other changes that were made (such as differences in the testing items)
 
 
-#### TABLE 3: Response Rates to Key Early Questionnaire Items
+### TABLE 3: Response Rates to Key Early Questionnaire Items
 
 
 |  | RAW | MICRODATA <br>(Full weights) |
 |-|-|-|
-| First Symptoms Item |  |  |
+| **First Symptoms Item** |  |  |
 | W10 - B1 (personal symptoms) | 94.6% | 99.2% |
 | W11 - B3 (community symptoms) | 98.1% | 99.6% |
-| Second Symptoms Item |  |  |
+| **Second Symptoms Item** |  |  |
 | W10 - B3 (community symptoms) | 88.2% | 93.8% |
 | W11 - B1 (personal symptoms) | 90.8% | 98.4% |
-| Unusual symptoms (B1b) - for those with positive symptoms |  |  |
+| **Unusual symptoms (B1b) - for those with positive symptoms** |  |  |
 | W10 | 46.3% | 49.8% |
 | W11 | 43.7% | 48.1% |
-| First Testing Question |  |  |
+| **First Testing Question** |  |  |
 | W10 (ever been tested) | 86.3% | 91.7% |
 | W11 (tested last 14 days) | 88.8% | 94.6% |
-| Vaccine Uptake (V1) |  |  |
+| **Vaccine Uptake (V1)** |  |  |
 | W10 | 85.7% | 90.8% |
 | W11 | 87.8% | 93.3% |
 
