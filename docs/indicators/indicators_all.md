@@ -97,3 +97,4 @@ parent: Indicators
 | `activity_work_outside_home`                       | Respondents who worked outside their home in the past 24 hours.               	   | C0a | 2021-05-20 |
 | `cli_w11`                       | Respondents that have reported COVID-like illness (CLI). COVID-like illness: fever, along with cough, shortness of breath, or difficulty breathing.               	   | B1_1, B1_2, B1_3 **Note: Wave 11 data from 5/20/2021 to 6/7/2021 only.** | 2021-05-20 to 2021-06-17 |
 | `ili_w11`                       | Respondents that have reported Influenza-like illness (ILI). Influenza-like illness: fever, along with cough or sore throat.               	   | B1_1, B1_2, B1_7 **Note: Wave 11 data from 5/20/2021 to 6/7/2021 only.** | 2021-05-20 to 2021-06-17 |
+| `wash_hands_24h_1to2`                       | Respondents who washed their hands 1 to 2 times in the last 24 hours.    	   | C7  | 2020-06-27 |
