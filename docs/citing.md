@@ -15,4 +15,4 @@ If you use the API and would like to cite it, the following represents a proper 
 > Joshua A Salomon, Elizabeth A. Stuart, Ryan Tibshirani, Tali Alterman Barash, 
 > Curtiss Cobb, Andi Gros, Ahmed Isa, Alex Kaess, Faisal Karim, Roee Eliat,
 > Ofir Eretz Kedosha, Shelly Matskel, Roee Melamed, Amey Patankar, Irit Rutenberg, Tal Salmona, 
-> David Vannette (2020). COVID-19 World Symptom Survey Data API. [https://covidmap.umd.edu/api.html](https://covidmap.umd.edu/api.html)
+> David Vannette (2020). The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey, in partnership with Facebook. [https://covidmap.umd.edu/api.html](https://covidmap.umd.edu/api.html)

@@ -2,12 +2,12 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Documentation for the COVID-19 World Survey data API by the CGIS @ the University of Maryland"
+description: "Documentation for the Global COVID-19 Trends and Impact Survey data API by the CGIS @ the University of Maryland"
 permalink: /
 ---
 
-# COVID-19 World Survey Open Data API
-An Open API to access aggregated COVID-19 World Survey data.
+# The Global COVID-19 Trends and Impact Survey Open Data API
+An Open API to access aggregated Global COVID-19 Trends and Impact Survey data.
 
 [Home Page](https://covidmap.umd.edu){: .btn .btn-red }
 [Map](https://covidmap.umd.edu/map/){: .btn .btn-red }
@@ -23,11 +23,11 @@ See the <a href="https://gisumd.github.io/COVID-19-API-Documentation/docs/notice
 
 # About
 
-The COVID-19 World Symptoms Survey is a partnership between Facebook and other academic institutions. The survey is available in 56 languages. A representative sample of Facebook users is invited on a daily basis to report on topics including, for example, symptoms, social distancing behavior, vaccine acceptance, mental health issues, and financial constraints. 
+The Global COVID-19 Trends and Impact Survey or UMD Global CTIS is a partnership between Facebook and other academic institutions. The survey is available in 56 languages. A representative sample of Facebook users is invited on a daily basis to report on topics including, for example, symptoms, social distancing behavior, vaccine acceptance, mental health issues, and financial constraints. 
 
 Facebook provides weights to reduce nonresponse and coverage bias. Country and region-level statistics are published daily via public API and dashboards, and microdata are available for researchers via data use agreements.  
 
-Over 200k responses are collected daily. After accounting for variance introduced by the survey weights, the effective sample size is still over 100k responses collected daily. Data for the United States is not included in the World Symptoms Survey but is available at [covidcast.cmu.edu](https://delphi.cmu.edu/covidcast/?date=20210308&region=42003)
+Over 200k responses are collected daily. After accounting for variance introduced by the survey weights, the effective sample size is still over 100k responses collected daily. Data for the United States is not included in the UMD Global CTIS but is available at [covidcast.cmu.edu](https://delphi.cmu.edu/covidcast/?date=20210308&region=42003)
 
 ---
 **Note:** Aggregates for the API, map, and survey results page are shown for **weighted countries only**. Please find the complete list of countries that are weighted by Facebook [here](https://covidmap.umd.edu/FB_Symptom_Survey_Weighted_Country_List.xlsx).  
