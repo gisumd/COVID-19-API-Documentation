@@ -7,7 +7,8 @@ permalink: /
 ---
 
 # The Global COVID-19 Trends and Impact Survey Open Data API
-An Open API to access aggregated Global COVID-19 Trends and Impact Survey data.
+An Open API to access aggregated data for the University of Maryland Social Data Science Center Global COVID-19 Trends and
+Impact Survey, in partnership with Facebook.
 
 [Home Page](https://covidmap.umd.edu){: .btn .btn-red }
 [Map](https://covidmap.umd.edu/map/){: .btn .btn-red }
