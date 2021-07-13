@@ -24,7 +24,7 @@ See the <a href="https://gisumd.github.io/COVID-19-API-Documentation/docs/notice
 
 # About
 
-The Global COVID-19 Trends and Impact Survey or UMD Global CTIS is a partnership between Facebook and other academic institutions. The survey is available in 56 languages. A representative sample of Facebook users is invited on a daily basis to report on topics including, for example, symptoms, social distancing behavior, vaccine acceptance, mental health issues, and financial constraints. 
+The University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey, in partnership with Facebook or UMD Global CTIS is a partnership between Facebook and other academic institutions. The survey is available in 56 languages. A representative sample of Facebook users is invited on a daily basis to report on topics including, for example, symptoms, social distancing behavior, vaccine acceptance, mental health issues, and financial constraints. 
 
 Facebook provides weights to reduce nonresponse and coverage bias. Country and region-level statistics are published daily via public API and dashboards, and microdata are available for researchers via data use agreements.  
 
