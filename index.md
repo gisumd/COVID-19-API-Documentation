@@ -18,7 +18,7 @@ Impact Survey, in partnership with Facebook.
 
 ---
 <div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
-A new blog has been posted on 06/29/2021 !
+A new API update has been released on 07/20/2021 !
 See the <a href="https://gisumd.github.io/COVID-19-API-Documentation/docs/notice/notices.html">Notices and Updates</a> section for more information.
 </div>
 
