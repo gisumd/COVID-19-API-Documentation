@@ -6,9 +6,11 @@ nav_order: 9
 
 # Survey Instruments
 
-[Version 11 (new) Download Here](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V11_0607.pdf)
+[Version 11 (07/23/2021 - Present)](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V11_0607.pdf)
 
-[Version 11 Download Here](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V11.pdf)
+[Version 11 (06/07-07/23/2021)](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V11_0607.pdf)
+
+[Version 11 (05/20-06/07/2021)](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V11.pdf)
 
 [Version 10 Download Here](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V10.pdf)
 
@@ -29,3 +31,5 @@ nav_order: 9
 [Version 1 Download Here](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V1.pdf)
 
 
+# Translations
+[Version 11 (07/23/2021 - Present)](<https://gisumd.github.io/COVID-19-API-Documentation/assets/images/UMD Global CTIS W11 translations.xlsx>)
