@@ -30,3 +30,9 @@ List of behavior indicators, including mask wearing and more.
 | `activity_shop`                       | Respondents who went to a market, grocery store, or pharmacy in the past 24 hours.               	   | C0a | 2021-05-20 |
 | `activity_spent_time`                       | Respondents who spent time with someone who isn’t currently staying with them in the past 24 hours.               	   | C0a | 2021-05-20 |
 | `activity_work_outside_home`                       | Respondents who worked outside their home in the past 24 hours.               	   | C0a | 2021-05-20 |
+| `mask_work_outside_home_1d` | Estimated percentage of respondents who wore mask when worked outside home indoors | C0a, C13a            | 2021-05-20              |
+| `mask_shop_1d`                | Estimated percentage of respondents who wore mask when shopped indoors             | C0a, C13a            | 2021-05-20              |
+| `mask_restaurant_1d`          | Estimated percentage of respondents who wore mask in restaurant indoors            | C0a, C13a            | 2021-05-20              |
+| `mask_spent_time_1d`         | Estimated percentage of respondents who wore mask when spent time indoors          | C0a, C13a            | 2021-05-20              |
+| `mask_large_event_1d`        | Estimated percentage of respondents who wore mask when at a large event indoors    | C0a, C13a            | 2021-05-20              |
+| `mask_public_transit_1d`     | Estimated percentage of respondents who wore mask when using public transit        | C0a, C13a            | 2021-05-20              |
