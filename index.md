@@ -32,6 +32,6 @@ Over 200k responses are collected daily. After accounting for variance introduce
 
 ---
 **Note:** Aggregates for the API, map, and survey results page are shown for **weighted countries only**. Please find the complete list of countries that are weighted by Facebook [here](https://covidmap.umd.edu/FB_Symptom_Survey_Weighted_Country_List.xlsx).  
-Microdata files include both weighted and unweighted countries. For more information on how to gain access to the microdata go [here](https://dataforgood.fb.com/docs/covid-19-symptom-survey-request-for-data-access/).
+Microdata files include both weighted and unweighted countries. For more information on how to gain access to the microdata go [here](https://dataforgood.facebook.com/dfg/docs/covid-19-trends-and-impact-survey-request-for-data-access).
 
 ![Image of umd](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/umd-globe.svg)
