@@ -91,4 +91,4 @@ While the time it takes to correct errors depends on the size of the problem, we
 - Sign up for our mailing list and check the Notices and Updates page regularly. 
 
 ## Acknowledgement
-This page is adapted from the Survey Limitations page on the US CTIS website overseen by the Delphi Group at Carnegie Mellon University.
+This page is adapted from the [Survey Limitations page](https://cmu-delphi.github.io/delphi-epidata/symptom-survey/limitations.html) on the US CTIS website overseen by the [Delphi Group at Carnegie Mellon University](https://delphi.cmu.edu/).
