@@ -54,7 +54,7 @@ In collaboration with researchers at Boston Children’s Hospital (BCH), we comp
 2. **Focus on trends, rather than point estimates.** We do expect that any nonresponse- and coverage biases will remain relatively consistent over time, allowing us to make reliable comparisons over time (such as noting an increase or decrease in COVID cases) even if the point estimates are consistently biased. This is a common issue with self-reported data. For example, surveys on illegal drug use expect under-reporting but are commonly used to make comparisons between groups or over time. 
 
 ## Weighting
-It is important to [read the weights documentation]((https://covidmap.umd.edu/document/css_methods_brief.pdf)) to understand how Meta calculates survey weights, but there are some key limitations to emphasize:
+It is important to [read the weights documentation](https://covidmap.umd.edu/document/css_methods_brief.pdf) to understand how Meta calculates survey weights, but there are some key limitations to emphasize:
 
 1. **The weights are based only on attributes in Facebook profiles, not on demographics reported in response to survey questions,** because we do not receive Facebook profile data and Meta does not receive individual-level survey response data. For example, if a respondent reported being 35 years of age on their Facebook profile, but on the survey responds that they are 60 years of age, this would cause measurement error in the weights. Similarly, if a sampled user shares their Facebook account or shares their electronic device with another household member of a different age and/or gender and that household member responds to the survey, this would cause measurement error in the weights. 
 2. **The non-response model used by Meta to calculate the weights prior to post-stratification ([see the documentation](https://covidmap.umd.edu/document/css_methods_brief.pdf)) only uses information available to Meta, such as profile information.** If this model is not perfect, for example, if factors not included in the model are correlated with non-response, the weights will not fully account for this non-response bias.
@@ -77,7 +77,7 @@ While we try our best to test and validate all CTIS data products before launchi
 2. Instrument errors can include mistakes in the translations of our survey questions. 
 
 
-While the time it takes to correct errors depends on the size of the problem, we will always try to notify our data users via our mailing list  and announce any changes to our survey on the [Notices and Updates](https://gisumd.github.io/COVID-19-API-Documentation/docs/notice/notice_index.html) page. To subscribe to the Microdata mailing list go to https://listserv.umd.edu/cgi-bin/wa?SUBED1=COVID19-MICRODATA&A=1 and to subscribe to the Aggregate API mailing list go to https://listserv.umd.edu/cgi-bin/wa?SUBED1=COVID19-API&A=1.
+While the time it takes to correct errors depends on the size of the problem, we will always try to notify our data users via our mailing list  and announce any changes to our survey on the [Notices and Updates](https://gisumd.github.io/COVID-19-API-Documentation/docs/notice/notice_index.html) page. To subscribe to the Microdata mailing list, click [here](https://listserv.umd.edu/cgi-bin/wa?SUBED1=COVID19-MICRODATA&A=1) and to subscribe to the Aggregate API mailing list, click [here](https://listserv.umd.edu/cgi-bin/wa?SUBED1=COVID19-API&A=1).
 
 
 ## Summary of Recommendations
