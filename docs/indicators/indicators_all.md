@@ -7,7 +7,7 @@ parent: Indicators
 
 ## List of All Indicators
 
-| Indicator        | Description          | Survey Question Used | Earliest Date Available |
+| Indicator        | Description          | Survey Question Used | Earliest Date Available ( To Last Available Date if applicable) |
 |:----------------------|:---------------------|:---------------------|:---------------------|
 | `covid`                                   | Respondents that have reported COVID-like illness (CLI). COVID-like illness: fever, along with cough, shortness of breath, or difficulty breathing.    | B1_1, B1_2, B1_3  | 2020-04-23 |
 | `flu`                                     | Respondents that have reported Influenza-like illness (ILI). Influenza-like illness: fever, along with cough or sore throat.      | B1_1, B1_2, B1_7  | 2020-04-23 |
@@ -64,7 +64,7 @@ parent: Indicators
 | `pay_test`                       | Respondents who pay for the COVID-19 test.	   | B9  | 2020-06-27 to 2021-06-18|
 | `reduce_spending`                       | Respondents who report they reduce spending on things they need because of the cost of COVID-19 test.	   | B10  | 2020-06-27 to 2021-06-18|
 | `symp_chills`                       | Respondents reporting chills.	   | B1_13  | 2020-05-07 |
-| `symp_sleep_changes`                       | Respondents reporting changes to sleep.	   | B1_14  | 2020-11-23 |
+| `symp_sleep_changes`                       | Respondents reporting changes to sleep.	   | B1_14  | 2020-11-23 to 2021-06-07|
 | `testing_rate`                       | Respondents who report they have been tested for COVID-19 in the past 14 days,  regardless of their test result.	   | B7  | 2020-04-23 |
 | `tested_positive_recent`                       | Respondents who report they have tested positive for COVID-19 in a recent test. 	   | B8 **Note: Item # change to B8a since 2021-05-20**  | 2020-04-23 |
 | `tested_positive_14d`                       | Respondents who report they have been tested positive for COVID-19 in the past 14 days. **Note:** same as "tested_positive_recent"	   | B7,B8  | 2020-04-23 |
@@ -77,7 +77,7 @@ parent: Indicators
 | `symp_sore_throat`                       | Respondents reporting sore_throat.    	   | B1_7  | 2020-04-23 |
 | `symp_chest_pain`                       | Respondents reporting chest pain.    	   | B1_8  | 2020-04-23 |
 | `symp_nausea`                       | Respondents reporting nausea.    	   | B1_9  | 2020-04-23 |
-| `symp_eye_pain`                       | Respondents reporting eye pain.    	   | B1_11  | 2020-04-23 |
+| `symp_eye_pain`                       | Respondents reporting eye pain.    	   | B1_11  | 2020-04-23 to 2021-06-07 |
 | `symp_headache`                       | Respondents reporting headache.    	   | B1_12  | 2020-04-23 |
 | `ever_tested`                       | Respondents who report they have ever been tested for COVID-19.    	   | B6  | 2020-04-23 to 2021-06-18|
 | `sick_spending_time_7d`                       | Respondents who spent time with any of these people in the last 7 days (sick with a fever and either a cough or difficulty breathing).    	   | B5  | 2020-04-23 to 2021-06-18|
