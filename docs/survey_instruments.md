@@ -6,7 +6,7 @@ nav_order: 9
 
 # Survey Instruments
 
-[Version 11 (07/23/2021 - Present)](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V11_0607.pdf)
+[Version 11 (07/23/2021 - Present)](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V11_0723.pdf)
 
 [Version 11 (06/07-07/23/2021)](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/COVID19_symptom_survey_intl_V11_0607.pdf)
 
