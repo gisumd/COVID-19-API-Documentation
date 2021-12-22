@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Issues
-nav_order: 10
+nav_order: 11
 ---
 
 # Data issues and correction status
