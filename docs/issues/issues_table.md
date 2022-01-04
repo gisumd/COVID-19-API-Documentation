@@ -11,3 +11,4 @@ This page provides updates on known issues and the status of any corrections. Pl
 | Data product involved             | Description          |Fix status           |Backfill status |
 |:-------------------|:---------------------|:---------------------|:---------------------|
 | Contingency tables            | Indicators (food security, finance, worried become ill) got 0 percent and se values but had positive sample size        | Pipeline fixed and applied to weekly table 20211212-1218 and other data generated after 2021-12-19 | Backfilling is in progress           |
+| Microdata/Aggregates/Contingency tables    |  A routine maintenance on the programming of the Qualtrics survey instrument on December 21, 2021 caused an error in our pipelines that process the data     | Pipeline fixed and applied after 2021-12-28 | Backfilling for 12-21 to 12-27 is in progress           |
