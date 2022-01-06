@@ -15,7 +15,7 @@ parent: Indicators
 | `contact`                                 | Respondents that have reported having had direct contact (longer than 1 minute) with people not staying with them.   | C1_m  | 2020-04-23 to 2021-06-18|
 | `finance`                                 | Respondents who are very worried or somewhat worried about themselves and their household's finances.    | D5  | 2020-05-01 |
 | `anosmia`                                 | Respondents reporting anosmia (loss of smell or taste).    | B1_10  | 2020-04-23 |
-| `vaccine_acpt`                            | Respondents definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them  **Note: Replaced by `appointment_or_accept_covid_vaccine` in Wave 11**  | V3  | 2020-12-21 to 2021-06-18|
+| `vaccine_acpt`                            | Respondents definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them, out of the respondents who have not been vaccinated. **Note: Replaced by `appointment_or_accept_covid_vaccine` in Wave 11**  | V3  | 2020-12-21 to 2021-06-18|
 | `covid_vaccine`                           | Respondents vaccinated with a COVID-19 vaccine.   | V1  | 2021-02-05 |
 | `trust_fam`                               | Respondents more likely to get vaccinated if recommended by friends and family.    | V4_1  | 2020-12-21 to 2021-06-18|
 | `trust_healthcare`                        | Respondents more likely to get vaccinated if recommended by local healthcare workers. **Note:** no longer being populated. It has been replaced by trust_doctors.    | V4_2  | From 2020-12-21 To 2021-02-05 |
@@ -84,7 +84,7 @@ parent: Indicators
 | `flu_vaccine_thisyr`                       | Respondents who had a seasonal flu vaccination since July 1, 2020.    	   | C9a  | 2021-02-05 to 2021-06-18|
 | `flu_vaccine_lastyr`                       | Respondents who get a flu vaccine between June 2019 and February 2020.    	   | C12  | 2020-11-23 to 2021-06-18|
 | `avoid_contact`                       | Respondents who intentionally avoiding contact with other people all the time or most of the time.   	   | C14 **Note: Item # change to C14a since 2021-05-20** | 2020-11-23  |
-| `vaccinated_appointment_or_accept`                       | Respondents who had a vaccine, an appointment to get vaccinated or who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them, or the respondents who have been vaccinated.              	   | V1, V15a, V3a  | 2021-05-20 |
+| `vaccinated_appointment_or_accept`                       | Respondents who had a vaccine, an appointment to get vaccinated or who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them.              	   | V1, V15a, V3a  | 2021-05-20 |
 | `appointment_or_accept_covid_vaccine`                       | Respondents who have an appointment to get vaccinated or who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them, out of the respondents who have not been vaccinated.                     	   | V15a, V3a  | 2021-05-20 |
 | `accept_covid_vaccine_no_appointment`                       | Respondents who would definitely or probably choosing to get vaccinated if a COVID-19 vaccine was offered to them.               	   | V3a | 2021-05-20 |
 | `appointment_not_vaccinated`                       | Respondents who reported having an appointment to receive a COVID-19 vaccine, out of all those that have not been vaccinated.               	   | V15a | 2021-05-20 |
