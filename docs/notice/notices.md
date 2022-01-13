@@ -11,12 +11,15 @@ For updates, including data corrections, new aggregates, and any other changes t
 </div>
 
 ## Incorrect Wave 12 data release (Dec 19,2021 - Jan 10, 2022)
+
 Wave 12 of the COVID-19 Trends and Impact Survey (CTIS) launched December 19, 2021. However, we noticed some pipeline issues and worked on the fix. All the data product were up-to-date after 01/10/2022. Thus, any collected data of wave 12 between 12/19 and 01/10 should be void and recollected again.
 
 ## Temporary pause on data collection (Dec 17, 2021)
+
 On Dec 17th, 2021, Data collection was paused for several hours for all countries due to a system update. Be cautious about the lower sample size when using any of the data product on that day.
 
 ## All notices
+
 | Date                | Notice            |
 |:--------------------|:------------------|
 |12/19/2021            | Wave 12 of the COVID-19 Trends and Impact Survey (CTIS) launched December 19, 2021. However, we noticed some pipeline issues and worked on the fix. All the data product were up-to-date after 01/10/2022. Thus, any collected data of wave 12 between 12/19 and 01/10 should be void and recollected again.  |
