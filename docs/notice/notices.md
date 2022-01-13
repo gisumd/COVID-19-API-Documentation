@@ -12,6 +12,8 @@ For updates, including data corrections, new aggregates, and any other changes t
 
 | Date                | Notice            |
 |:--------------------|:------------------|
+|12/19/2021            | Wave 12 of the COVID-19 Trends and Impact Survey (CTIS) launched December 19, 2021. However, we noticed some pipeline issues and worked on the fix. All the data product were up-to-date after 01/10/2022. Thus, any collected data of wave 12 between 12/19 and 01/10 should be void and recollected again.  |
+|12/17/2021            | On Dec 17th, 2021, Data collection was paused for several hours for all countries due to a system update. Be cautious about the lower sample size when using any of the data product on that day.|
 |08/17/2021            | New  indicators from questions C13a and C0a are available now. The newly added 6 indicators starting 05/20/2021 can be found in the indicator categories of `behavior`|
 |07/20/2021            | New  indicators from questions V18a and V18b are available now. The newly added 24 indicators starting 05/20/2021 can be found in the indicator categories of `vaccine`|
 |06/29/2021            | New aggregate indicators for [survey version 11](https://covidmap.umd.edu/document/COVID19_symptom_survey_intl_V11_0607.pdf) are available now. The newly added 63 indicators starting 05/20/2021 can be found in the indicator categories of `symptoms`,`module`, and `vaccine`|
