@@ -5,6 +5,7 @@ nav_order: 9
 ---
 
 # Survey Instruments
+[Version 13 (Coming Soon)](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/CTIS Global Wave 13 Final.pdf)
 
 [Version 12 (12/19/2021 - Present)](https://gisumd.github.io/COVID-19-API-Documentation/assets/images/CTIS_Global_Wave_12_Full_Launch.pdf)
 
