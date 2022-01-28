@@ -35,6 +35,9 @@ nav_order: 9
 
 
 # Translations
-[Version 12 (12/19/2021 - Present)](<https://gisumd.github.io/COVID-19-API-Documentation/assets/images/Global_UMD W12 Full Translations with Additional Languages.xlsx>)
+[Version 13 (Coming Soon)](<https://gisumd.github.io/COVID-19-API-Documentation/assets/images/CTIS Global Wave 13 Translation Spreadsheet.xls>)
+
+[Version 12 (12/19/2021 - Present)](<https://gisumd.github.io/COVID-19-API-Documentation/assets/images/CTIS Global Wave 12 Translation Spreadsheet.xls>)
+
 
 [Version 11 (07/23/2021 - 12/18/2021)](<https://gisumd.github.io/COVID-19-API-Documentation/assets/images/UMD Global CTIS W11 translations.xlsx>)
