@@ -10,18 +10,20 @@ parent: Notices and Updates
 For updates, including data corrections, new aggregates, and any other changes to the API, we encourage you to <a href="https://listserv.umd.edu/cgi-bin/wa?SUBED1=COVID19-API&A=1" target='_blank'>subscribe</a> to our COVID-19 API mailing list.
 </div>
 
+## Introducing V2 API and W12/W13 aggregates
+An optimization for the backend tables of Aggregation API has been tested since last Aug in the result plots. The updated table is versatile to add new indicator and modify existing indicators and is proved to decrease the labor of database maintanence by 80%. We are planning to publicly release the optimized API as V2 API. Using V2 API would not require change in the query URL but change `api` to `apiv2`. Returned JSON will use a slightly different set of keys: `country`,(`region`),`survey_date`,`indicator`,`sample_size`,`pct`,`se`,(`pct_unw`,`se_unw`) where the indicator names would not appear in the returned keys of JSON. Wildcard(*) is temporarily not supported so the URL must contain specified indicator name, country and region if applicable.  To access the V2 API, one sample URL: https://covidmap.umd.edu/apiv2/resources?indicator=covid&type=daily&country=Brazil&daterange=20200501-20220518
+
+Meanwhile, new aggregates for Wave 12 and Wave 13 including vaccine doses and other vaccine and parenting indicators have been released through the V2 API. Please checkout the new indicators in the [vaccine](https://gisumd.github.io/COVID-19-API-Documentation/docs/indicators/indicators_vaccine.html) and [parenting](https://gisumd.github.io/COVID-19-API-Documentation/docs/indicators/indicators_parenting.html) category
+
 ## Incorrect Wave 12 data release (Dec 19,2021 - Jan 10, 2022)
 
 Wave 12 of the COVID-19 Trends and Impact Survey (CTIS) launched December 19, 2021. However, we noticed some pipeline issues and worked on the fix. All the data product were up-to-date after 01/10/2022. Thus, any collected data of wave 12 between 12/19 and 01/10 should be void and recollected again.
-
-## Temporary pause on data collection (Dec 17, 2021)
-
-On Dec 17th, 2021, Data collection was paused for several hours for all countries due to a system update. Be cautious about the lower sample size when using any of the data product on that day.
 
 ## All notices
 
 | Date                | Notice            |
 |:--------------------|:------------------|
+|02/21/2022            | As wave 13 launched on Jan 30, 2022, NEW aggregated indicators for wave 12 and 13 are available now! Checkout the new indicators in vaccine and parenting category!|
 |12/19/2021            | Wave 12 of the COVID-19 Trends and Impact Survey (CTIS) launched December 19, 2021. However, we noticed some pipeline issues and worked on the fix. All the data product were up-to-date after 01/10/2022. Thus, any collected data of wave 12 between 12/19 and 01/10 should be void and recollected again.  |
 |12/17/2021            | On Dec 17th, 2021, Data collection was paused for several hours for all countries due to a system update. Be cautious about the lower sample size when using any of the data product on that day.|
 |08/17/2021            | New  indicators from questions C13a and C0a are available now. The newly added 6 indicators starting 05/20/2021 can be found in the indicator categories of `behavior`|
