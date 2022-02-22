@@ -8,6 +8,7 @@ parent: Indicators
 ## List of Parenting Indicators
 
 List of parenting indicators.
+
 | Indicator        | Description          | Survey Question Used | Earliest Date Available |
 |:----------------------------------------|:---------------------|:---------------------|:---------------------|
 | `oldest_child_male`                 | Of those that report having a child under 18 years old, the estimated percentage who report that the oldest child is male.                                                                                                                        | J8      | 2022-01-30 |
