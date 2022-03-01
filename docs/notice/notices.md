@@ -10,10 +10,17 @@ parent: Notices and Updates
 For updates, including data corrections, new aggregates, and any other changes to the API, we encourage you to <a href="https://listserv.umd.edu/cgi-bin/wa?SUBED1=COVID19-API&A=1" target='_blank'>subscribe</a> to our COVID-19 API mailing list.
 </div>
 
-## Introducing V2 API and W12/W13 aggregates
-An optimization for the backend tables of Aggregation API has been tested since last Aug in the result plots. The updated table is versatile to add new indicator and modify existing indicators and is proved to decrease the labor of database maintanence by 80%. We are planning to publicly release the optimized API as V2 API. Using V2 API would not require change in the query URL but change `api` to `apiv2`. Returned JSON will use a slightly different set of keys: `country`,(`region`),`survey_date`,`indicator`,`sample_size`,`pct`,`se`,(`pct_unw`,`se_unw`) where the indicator names would not appear in the returned keys of JSON. Wildcard(*) is temporarily not supported so the URL must contain specified indicator name, country and region if applicable.  To access the V2 API, one sample URL: https://covidmap.umd.edu/apiv2/resources?indicator=covid&type=daily&country=Brazil&daterange=20200501-20220518
+## Introducing Version 2 API and the Wave 12 and Wave 13 aggregates
 
-Meanwhile, new aggregates for Wave 12 and Wave 13 including vaccine doses and other vaccine and parenting indicators have been released through the V2 API. Please checkout the new indicators in the [vaccine](https://gisumd.github.io/COVID-19-API-Documentation/docs/indicators/indicators_vaccine.html) and [parenting](https://gisumd.github.io/COVID-19-API-Documentation/docs/indicators/indicators_parenting.html) category
+We are excited to share with you that a new version of the API is available! The Version 2 API optimizes performance of the API.
+The new Version 2 API is accessed through a small change in the URL -  you will need to change "api" to "apiv2"
+For example: https://covidmap.umd.edu/apiv2/resources?indicator=covid&type=daily&country=Brazil&daterange=20200501-20220518
+
+The returned JSON will use a slightly different set of keys: country, (region), survey_date, indicator, sample_size, pct, se, (pct_unw, se_unw) where the indicator names will now appear in the returned keys of JSON. Wildcard(*) is temporarily not supported, so the URL must contain specified indicator names, and country and region if applicable.
+
+The V1 API will remain in production and support requests for indicators from Wave 11 and prior.  The V2 API is backwards compatible and contains all indicators from previous waves as well as any indicators from Wave 12 and forward.
+
+As Wave 13 launched on Jan 30, 2022, NEW aggregate indicators for Wave 12 and 13 are available now! These new indicators are only available in V2 API. Check out the new indicators in the [vaccine](https://gisumd.github.io/COVID-19-API-Documentation/docs/indicators/indicators_vaccine.html) and [parenting](https://gisumd.github.io/COVID-19-API-Documentation/docs/indicators/indicators_parenting.html) category
 
 ## Incorrect Wave 12 data release (Dec 19,2021 - Jan 10, 2022)
 
