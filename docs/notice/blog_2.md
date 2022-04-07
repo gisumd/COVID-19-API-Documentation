@@ -1,7 +1,7 @@
 ---
 layout: default
 title: June Indicators Fixes Blog 
-nav_order: 4
+nav_order: 5
 parent: Notices and Updates
 ---
 

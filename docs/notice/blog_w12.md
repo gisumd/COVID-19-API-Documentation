@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wave 12 Full Launch
-nav_order: 2
+nav_order: 3
 parent: Notices and Updates
 ---
 
