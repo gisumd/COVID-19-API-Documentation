@@ -35,7 +35,8 @@ For example, the Institute of Health Metrics and Evaluation (IHME) uses CTIS dat
 
 In the Philippines, the [USAID Breakthrough ACTION Project](https://www.youtube.com/watch?v=Zg7o9_R9JHw&t=3s) is using the Johns Hopkins Center for Communications Programs (JH CCP) [COVID Behaviors Dashboard](https://covidbehaviors.org/) that visualizes CTIS data to support COVID-19 prevention and vaccine confidence campaigns in partnership with the Philippines Department of Health. The dashboard allowed Breakthrough ACTION to uncover local healthcare workers as a trusted source of information, leveraging them as a channel for countering vaccine hesitancy and misinformation.
 We are grateful to the millions of Facebook users that took the survey, many of them taking it multiple times over the course of two years. Thank you as well to the many researchers, nonprofit leaders and public health officials who have ensured and continue to ensure that CTIS responses inform public health decisions around the globe. 
-AVAILABILITY OF DATA AFTER DATA COLLECTION ENDS
+
+## AVAILABILITY OF DATA AFTER DATA COLLECTION ENDS
 
 ### Will it be possible to access historical data after CTIS data collection ends?
 Yes. We are working to archive the data that has been collected so it can continue to inform public health decisions for years to come. In line with CTIS policies and standards during the sampling period, all data will be maintained in a way that continues to [preserve user privacy](https://dataforgood.facebook.com/covid-survey/survey-and-map-data). 
