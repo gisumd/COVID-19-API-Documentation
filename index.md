@@ -19,8 +19,8 @@ Impact Survey, in partnership with Facebook.
 
 ---
 <div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
-A new API update has been released on 08/17/2021 !
-See the <a href="https://gisumd.github.io/COVID-19-API-Documentation/docs/notice/notices.html">Notices and Updates</a> section for more information.
+As of June 25, 2022, the COVID-19 Trends and Impact survey (CTIS) will no longer collect new survey data. Existing CTIS aggregate data will continue to be available on this site after data collection stops, and privacy-protected, non-aggregated data access will also continue to be available for eligible researchers at academic institutions and nonprofit organizations. Please reference the <a href="https://gisumd.github.io/COVID-19-API-Documentation/docs/notice/end_of_survey.html">FAQ</a>  for additional information.
+
 </div>
 
 # About
