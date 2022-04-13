@@ -16,7 +16,7 @@ Data calculated based on the Facebook global symptoms survey data. Using the sur
 
 **The endpoint path.** For example, `resources?indicator={indicator}&type={type}&country={country}&date={date}`
 
-**Required parameters.** These parameters must be included in a request. In the example above, `{indicator}`, `{type}`, and `{country}`are required. `{date}`,`{daterange}` and `{region}` are optional. In a request, you will replace the placeholders with real values. Checkout the API usages in the `Survey Aggregates` page through navigation bar on the left.
+**Required parameters.** These parameters must be included in a request. In the example above, `{indicator}`, `{type}`, and `{country}`are required. `{date}`,`{daterange}` and `{region}` are optional. In a request, you will replace the placeholders with real values. Checkout the API usages in the [Survey Aggregates]({{ site.baseurl }}{% link docs/survey_aggregates.md %}) page.
 
 **Optional parameters.** These additional parameters can be included to customize a query to get regional aggregates, smoothed aggregates, all regions, etc.
 

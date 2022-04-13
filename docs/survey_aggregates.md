@@ -34,12 +34,15 @@ Version 1 API: (depracated; without indicators added after wave 11)
 | daterange    | Used to query aggregates data within a time range | (optional) `20210101-20210115`    |
 
 The mandatory parameters here are `indicator`, `type`, `country`, and at least one of `date` or `daterange`(optional in V2 API).  
-Set `country` to `all` to retrieve data for all countries.  (Support in Version 1&2 API)
+Set `country` to `all` to retrieve data for all countries.(Support in Version 1&2 API)
+
 Set `region` to `all` to retrieve data for all regions for a specific country. (Support in Version 1&2 API)
-Leave `date` or `daterange` blank to retrieve data for all dates for the given geographical areas. (New feature in Version 2 API only.)
+
 Set both `country` and `region` to `all` to retrieve all data. (Not support in Version 2 API. Only available in version 1 API )
 
 Wildcard characters `%` and `_` are enabled for `country` and `region`. See [Requests]({{ site.baseurl }}{% link docs/requests/requests.md %}) section for examples. (Not support in Version 2 API. Only available in version 1 API )
+
+Leave `date` or `daterange` blank to retrieve data for all dates for the given geographical areas. (New feature in Version 2 API only.)
 
 If you prefer to use `iso_code` , `gid_0` and `gid_1` , you can use our [lookup table](https://covidmap.umd.edu/country_region_codes.csv) to convert country names or region names into the geocodes you prefer.  
 
