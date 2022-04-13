@@ -28,6 +28,8 @@ Data calculated based on the Facebook global symptoms survey data. Using the sur
   [
     {
       "country":"Italy",
+      "iso_code":"ITA",
+      "gid_0":"ITA",
       "survey_date":"20201110",
       "indicator":"covid",
       "sample_size":30879,
