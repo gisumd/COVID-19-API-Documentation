@@ -7,7 +7,7 @@ parent: Notices and Updates
 
 ## How to remove EU response in R
 
-This sample R code can remove the EU responses from the microdata CSV by specifying the file path and date to remove. The output will rewrite the origin file.
+This sample R code can remove EU responses in the microdata that have reached the 2-year retention deadline. These responses will be removed from the microdata CSV by specifying the file path and date to remove. The output will rewrite the origin file.
 ```r
 library(readr)
 library(tidyverse)
@@ -54,8 +54,8 @@ for (path in paths){
 ```
 
 ## How to remove EU response in Python
+This sample Python code can remove EU responses in the microdata that have reached the 2-year retention deadline. These responses will be removed from the microdata CSV by specifying the file path and the date range to remove. The output will rewrite the origin file.
 
-This sample Python code can remove the EU responses from the microdata CSV by specifying the file path and date to remove. The output will rewrite the origin file.
 ```py
 from datetime import date, timedelta
 import re, gzip
