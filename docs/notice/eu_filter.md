@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: R and Python code snippets to remove EU responses from your microdata
