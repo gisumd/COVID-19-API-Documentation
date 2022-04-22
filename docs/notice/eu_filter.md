@@ -5,7 +5,7 @@ nav_order: 6
 parent: Notices and Updates
 ---
 
-## How to remove EU response in R
+## How to remove EU responses that have reached the retention deadline in R
 
 This sample R code can remove EU responses in the microdata that have reached the 2-year retention deadline. These responses will be removed from the microdata CSV by specifying the file path and date to remove. The output will rewrite the origin file.
 ```r
@@ -53,7 +53,7 @@ for (path in paths){
 }
 ```
 
-## How to remove EU response in Python
+## How to remove EU responses that have reached the retention deadline in Python
 This sample Python code can remove EU responses in the microdata that have reached the 2-year retention deadline. These responses will be removed from the microdata CSV by specifying the file path and the date range to remove. The output will rewrite the origin file.
 
 ```py
