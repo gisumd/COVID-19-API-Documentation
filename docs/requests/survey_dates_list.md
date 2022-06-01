@@ -6,7 +6,7 @@ parent: Requests
 ---
 
 ## Retrieve all dates for survey responses for a particular place
-To retrive the available dates for a country use:
+To retrieve the available dates for a country use:
 
 `https://covidmap.umd.edu/api/datesavail?country={country}`
 
@@ -29,7 +29,7 @@ Example to get the available dates for `Paraguay` use:
 }
 ```
 
-To retrive the available dates for a region use:
+To retrieve the available dates for a region use:
 
 `https://covidmap.umd.edu/api/datesavail?country={country}&region={region}`
 
