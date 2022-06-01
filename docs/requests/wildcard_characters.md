@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reponse data using wildcard characters
+title: Response data using wildcard characters
 nav_order: 4
 parent: Requests
 ---
@@ -10,7 +10,7 @@ A wildcard character is a special character that represents one or more other ch
 - `%` matches any sequence of zero of more characters or numbers.
 - `_` matches any single character or number.
 
-To retrive data using the `%` character:
+To retrieve data using the `%` character:
 
 The following will return data for the `appointment_have` indicator for any countries whose name starts with `United` on `20210307`:
 
@@ -42,7 +42,7 @@ The following will return data for the `appointment_have` indicator for any coun
 }
 ```
 
-To retrive data using the `_` character:
+To retrieve data using the `_` character:
 
 The following will return all the dates for survey responses for any countries with a six-character name where the first three characters are `g`, `r`, `e` and the last two characters are `c`, `e`.
 
