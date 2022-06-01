@@ -6,7 +6,7 @@ parent: Requests
 ---
 
 ## Retrieve data for a particular indicator
-To retrive data for an indicator for a country:
+To retrieve data for an indicator for a country:
 
 Specify the `indicator`, the `type`, the `country`, and a `date` or `daterange`.
 
@@ -43,7 +43,7 @@ For example, to get the `daily` data for the `mask` indicator for the country of
 }
 ```
 
-To retrive data for an indicator for a region:
+To retrieve data for an indicator for a region:
 
 Specify the `indicator`, the `type`, the `country`, the `region`, and a `date` or `daterange`.
 
