@@ -6,7 +6,7 @@ parent: Requests
 ---
 
 ## Retrieve the country list or region list for survey responses
-To retrive the list of available countries:
+To retrieve the list of available countries:
 
 `https://covidmap.umd.edu/api/country`
 
@@ -23,7 +23,7 @@ To retrive the list of available countries:
 }
 ```
 
-To retrive the list of available regions:
+To retrieve the list of available regions:
 
 `https://covidmap.umd.edu/api/region`
 
