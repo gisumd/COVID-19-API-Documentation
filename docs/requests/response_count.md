@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Retrieve survey reponse counts
+title: Retrieve survey response counts
 nav_order: 5
 parent: Requests
 ---
 
-# Reponse Count
+# Response Count
 To get Part-A and Full survey response counts you need to make a call to the following URL:
 `https://covidmap.umd.edu/api/counts?date={date}`
 
