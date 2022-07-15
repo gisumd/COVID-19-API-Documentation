@@ -18,8 +18,13 @@ Impact Survey, in partnership with Facebook.
 [Contingency Tables Document](https://docs.google.com/spreadsheets/d/1BuaXLh9GKZ4Uf7UR20wNA2ArFLko4xi5w2DriCX0QQI/){: .btn .btn-red }
 
 ---
+
 <div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
 Since July 12, 2022, our server  is temporarily down due to a power outage resulting from a recent storm. Following services, including Home Page, Microdata portal, API, and contingency table CSVs are not available until the server is back. Stay tuned.<br>
+
+
+</div>
+<div style="background-color: #cae9f3f3; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
 
 As of June 25, 2022, the COVID-19 Trends and Impact survey (CTIS) will no longer collect new survey data. Existing CTIS aggregate data will continue to be available on this site after data collection stops, and privacy-protected, non-aggregated data access will also continue to be available for eligible researchers at academic institutions and nonprofit organizations. Please reference the <a href="https://gisumd.github.io/COVID-19-API-Documentation/docs/notice/end_of_survey.html">FAQ</a>  for additional information.
 
