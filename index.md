@@ -19,7 +19,7 @@ Impact Survey, in partnership with Facebook.
 
 ---
 
-<div style="background-color: #ea9999; padding: 5px 10px; font-size:15px; margin-left: 5px; margin-right: 5px;">
+<div style="background-color: #ea9999; padding: 5px 10px; font-size:25px;font-weight:bold; margin-left: 5px; margin-right: 5px;">
 Since July 12, 2022, our server  is temporarily down due to a power outage resulting from a recent storm. Following services, including Home Page, Microdata portal, API, and contingency table CSVs are not available until the server is back. We are working to remedy this problem as soon as possible.<br>
 
 
