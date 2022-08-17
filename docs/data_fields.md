@@ -19,7 +19,7 @@ Data fields returned form an API query.
 | smoothed\_\*       | Seven-day rolling average of pct\_\*         |
 | \*\_se             | Standard error of pct\_\*                    |
 | \*\_se\_unw        | Standard error of pct\_\*\_unw               |
-| smoothed\_\*\_se   | Seven-day rolling average of pct\_\*         |
+| smoothed\_\*\_se   | Standard error of smoothed\_\*         |
 | sample\_size\_\*   | Sample size for calculating the targeted indicator value.         |
 | iso\_code          | The ISO country codes are internationally recognized codes that designate every country and most of the dependent areas a two-letter or three-letter combination        |
 | gid\_0             | The code for join country level data to the [GADM](https://gadm.org) country-level data ([click to download](https://biogeo.ucdavis.edu/data/gadm3.6/gadm36_shp.zip)).         |
